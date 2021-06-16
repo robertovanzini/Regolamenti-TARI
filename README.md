@@ -1,2 +1,36 @@
-# Regolamenti-TARI
-modifiche
+Delibera IL CONSIGLIO COMUNALE n. 28 del 04/06/2015 
+VISTA la Legge 27 dicembre 2013, n. 147, Legge di Stabilità per l’anno 2014, che ha disciplinato l’Imposta Unica Comunale (I.U.C.), nell’intento di intraprendere il percorso verso l’introduzione della riforma sugli immobili;
+RILEVATO che la disciplina, nel dettaglio, della componente I.U.C. relativa alla tassa sui rifiuti (TARI), è presente ai commi da 641 a 668;
+VISTA la deliberazione di Consiglio Comunale n. 48 del 23/07/2014 con la quale veniva approvato il Regolamento per l’applicazione della nuova tassa sui rifiuti (I.U.C. - TA.RI) di cui all’art. 1 comma 641 e ss. della legge 147/2013 e s.m.i.;
+PRESO ATTO che al Comune è riconosciuta la potestà regolamentare ai sensi dell’articolo 52, del Decreto Legislativo 15 dicembre 1997, n. 446, così come confermata dall’articolo 14, comma 6, del D.Lgs. 14 marzo 2011, n. 23, recante “disposizioni in materia di federalismo fiscale”, nonché ai sensi delle disposizioni dettate dall’articolo 1, comma 702, della L. n. 147/2013;
+VERIFICATO che in ordine alla potestà regolamentare è previsto che” Le province ed i comuni possono disciplinare con regolamento le proprie entrate, anche tributarie, salvo per quanto attiene alla individuazione e definizione delle fattispecie imponibili, dei soggetti passivi e della aliquota massima dei singoli tributi, nel rispetto delle esigenze di semplificazione degli adempimenti dei contribuenti. Per quanto non regolamentato si applicano le disposizioni di legge vigenti”;
+RITENUTO di apportare alcune modifiche al Regolamento approvato in data 23 luglio 2014 ed in particolare ai seguenti articoli:
+	all’articolo 8,  a soddisfacimento della  richiesta della Confesercenti di Rimini, pervenuta in data 20 febbraio 2015. In tale richiesta si sosteneva l’applicazione del Regolamento proposto dall’Anci Emilia Romagna, anche con riferimento alla risoluzione n.2/DF del Ministero dell’Economia e delle Finanze del 9 dicembre 2014, che esentava nella loro interezza le aree ove vengono prodotti rifiuti speciali, con particolare riferimento ai distributori di carburante;
+	all’articolo 27, al fine di introdurre le modifiche normative intervenute con l’art.9 bis comma 2 del D.L. 28/03/2014 ad oggetto “Misure urgenti per l’emergenza abitativa, per il mercato delle costruzioni e per Expo 2015”, convertito  in Legge n.80/2014, ai sensi del quale la TARI per le unità abitative possedute da cittadini italiani residenti all’estero è ridotta di due terzi;
+	all’articolo 30, viste le modificate modalità di calcolo dell’ISEE, che porteranno inevitabilmente ad incrementare i livelli di ISEE a parità di reddito rispetto al 2014, elevando la soglia per ottenere l’esenzione dal pagamento della TARI da euro 7.656,00 ad euro 8.500,00;
+	all’articolo 32, al fine di reintrodurre i rimborsi per i conferimenti al centro ambiente di carta, plastica, vetro che erano stati eliminati con l’approvazione del nuovo regolamento TARI nell’anno 2014 ed elevando l’importo relativo a vegetali e scarti di giardinaggio da euro 0,02 al Kg ad euro 0,04 al Kg, soprattutto allo scopo di incentivare comportamenti virtuosi nell’ambito della raccolta differenziata;
+PRESO ATTO che le esenzioni previste dal presente regolamento trovano regolare copertura nel bilancio di previsione 2015-2017;
+PRESO ATTO che con l’adozione del presente atto vengono mantenuti gli equilibri al bilancio di previsione 2015-2017;
+VISTO l’art. 27, comma 8°, della L. n. 448/2001 il quale dispone : “Il comma 16 dell’art. 53 della legge 23 dicembre 2000, n. 388, è sostituito dal seguente: 16. Il termine per deliberare le aliquote e le tariffe dei tributi locali, compresa l’aliquota dell’addizionale comunale all’IRPEF di cui all’articolo 1, comma 3, del decreto legislativo 28 settembre 1998, n. 360, recante istituzione di una addizionale comunale all’IRPEF, e successive modificazioni, e le tariffe dei servizi pubblici locali, nonché per approvare i regolamenti relativi alle entrate degli enti locali, è stabilito entro la data fissata da norme statali per la deliberazione del bilancio di previsione. I regolamenti sulle entrate, anche se approvati successivamente all’inizio dell’esercizio purché entro il termine di cui sopra, hanno effetto dal 1 ° gennaio dell’anno di riferimento”;
+RITENUTO opportuno provvedere in merito;
+CONSIDERATO che a decorrere dall’anno d’imposta 2012, tutte le deliberazioni regolamentari e tariffarie relative alle entrate tributarie degli enti locali devono essere inviate al Ministero dell’economia e delle finanze, Dipartimento delle finanze, entro il termine di cui all’articolo 52, comma 2, del decreto legislativo n. 446 del 1997, e comunque entro trenta giorni dalla data di scadenza del termine previsto per l’approvazione del bilancio di previsione ;
+EVIDENZIATO che la trasmissione delle delibere dovrà avvenire mediante inserimento del testo degli stessi nell'apposita sezione del Portale del federalismo fiscale, per la pubblicazione nel sito informatico di cui all’art. 1, comma 3, del D. Lgs. 28 settembre 1998, n. 360, e successive modificazioni;
+TENUTO CONTO che per quanto non specificamente ed espressamente previsto dall’allegato Regolamento si rinvia alle norme vigenti inerenti all'imposta unica comunale (IUC) per la componente TARI ed alla Legge 27 Luglio 2000 n. 212 “Statuto dei diritti del contribuente”;
+VISTA la relazione del responsabile del servizio;
+DATO atto che, sulla proposta della presente deliberazione, hanno espresso parere favorevole:
+-	il responsabile del servizio interessato (art. 49, c. 1, del T.U. n. 267/2000);
+-	il responsabile di Ragioneria, per quanto concerne la regolarità contabile (art. 49, c. 1 del T.U. n. 267/2000).
+VISTO il parere favorevole del Revisore contabile, dott. Schiavo Raffaele, con verbale n.17 del 22/05/2015 agli atti d’ufficio;
+VISTA l’allegata bozza che propone il regolamento per l’applicazione della I.U.C. per la componente relativa al tributo sui rifiuti (TARI);
+VISTO il D.Lgs. 18/08/2000, n. 267; 
+VISTO lo Statuto comunale;
+D E L I B E R A
+1)	tutto quanto indicato in premessa è parte integrale e sostanziale del presente atto;
+2)	di approvare, per i motivi espressi in premessa, le modifiche agli articoli 8, 27, 30, 32 indicate in rosso e sottolineate, all’allegato regolamento per la disciplina della imposta unica comunale, per la componete relativa ai rifiuti (TARI), che costituisce parte integrante e sostanziale della presente deliberazione;
+3)	di dare atto che il regolamento approvato con la presente deliberazione entra in vigore dal 1° gennaio 2015;
+4)	di dare altresì atto che per quanto non disciplinato si applicano le disposizioni vigenti in materia;
+5)	di dare atto che con l’adozione del presente atto vengono mantenuti gli equilibri al bilancio di previsione 2015-2017;
+6)	di trasmettere al Ministero dell’Economia e delle Finanze, dipartimento delle finanze, copia della presente deliberazione in osservanza delle disposizioni vigenti,
+7) di dare atto che sul presente provvedimento sono stati espressi i pareri previsti dal D.Lgs. 267/2000, come dettagliato in premessa,
+D E L I B E R A
+di dichiarare la presente deliberazione immediatamente eseguibile ai sensi dell’art. 134, comma 4, del D.Lgs 267/2000.
