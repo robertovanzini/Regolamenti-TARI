@@ -1,11 +1,11 @@
 **Comune di San Clemente**<br>
 **REGOLAMENTO COMUNALE PER LA DISCIPLINA DELLA TASSA RIFIUTI (TA.RI.)**<br>
 Approvato con delibera di Consiglio Comunale n. 37 del 28/09/2020
-<br>
+<!-- TOC -->
 **INDICE**
   - **Art. 1 Disciplina della tassa sui rifiuti**
   - [Relatori](#relatori)
-<br>
+<!-- TOC -->
 ## Art. 1 Disciplina della tassa sui rifiuti
 <p align="justify">1.Il presente regolamento, adottato nell’ambito della potestà regolamentare prevista dall’art. 52 del D.Lgs. 446/1997, attiva e disciplina **l**’applicazione della tassa comunale sui rifiuti, istituito dall’art. 1, comma  639 della Legge 27 dicembre 2013, n147 per la copertura del costo del servizio di gestione dei rifiuti  urbani  e dei rifiuti assimilati avviati al recupero e/o allo smaltimento, a decorrere dal 1° gennaio 2014 e successive modificazioni ed integrazioni e tenuto conto della loro conferma ai sensi del comma 738 dell’art. 1 della legge n. 160/2019.<br>
 **2**.La tassa sui rifiuti (TARI) ,introdotta anch’essa ai sensi del medesimo art.1,comma 639 della Legge 27 dicembre 2013, n147;<br>
