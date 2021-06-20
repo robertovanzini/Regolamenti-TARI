@@ -3,7 +3,7 @@
 Approvato con delibera di Consiglio Comunale n. 37 del 28/09/2020
 <!-- TOC -->
 **INDICE**
-  - [Art. 1 – Disciplina della tassa sui rifiuti](#Art. 1 – Disciplina della tassa sui rifiuti)
+  - [Art. 1 – Disciplina della tassa sui rifiuti](# Art. 1 – Disciplina della tassa sui rifiuti)
   - [Relatori](#relatori)
   <!-- TOC -->
   ## Art. 1 – Disciplina della tassa sui rifiuti
