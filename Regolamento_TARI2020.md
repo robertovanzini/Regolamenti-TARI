@@ -14,5 +14,10 @@ Approvato con delibera di Consiglio Comunale n. 37 del 28/09/2020
 **5**.L’entrata qui disciplinata ha natura tributaria, non intendendosi con il presente regolamento attivare la tariffa con natura corrispettiva di cui ai comma 668 dell’art.1 della legge 147/2013 .<br>
 **6**.La tariffa della tassa comunale si conforma alle disposizioni contenute nel Decreto del Presidente della Repubblica 27 aprile 1999, n. 158 ,dell’art.1 L.147/2013 e delle disposizioni dell’Autorità di regolazione e dei criteri di articolazione delle tariffe stabilite dal presente  regolamento.<br>
 **7**.Per quanto non previsto dal presente regolamento si applicano le disposizioni di legge vigenti relative alla disciplina della TARI di cui alla L. n. 147/2013 e smi, nonché alle altre norme legislative vigenti di riferimento.</p><br>
----
+<br>
 ## Art. 2 - Oggetto e ambito di applicazione del regolamento
+<p align="justify">**1.**Il presente regolamento disciplina la tassa sui rifiuti, introdotta dall’art. 1, comma 639 e successivi della Legge n. 147/2013 e dalle disposizioni di cui al D.P.R. 27 aprile 1999, n. 158, rubricato “regolamento recante norme per la elaborazione del metodo normalizzato per definire la tariffa del servizio di gestione del ciclo dei rifiuti urbani”.<br>
+**2.**In particolare vengono stabiliti i criteri per l’applicazione del tributo al fine di:
+a)definire i coefficienti ed i meccanismi di determinazione delle tariffe delle diverse utenze, unitamente alle modalità di applicazione del tributo;<br>
+b)classificare le categorie di utenza, nel rispetto delle disposizioni dettate dal legislatore nazionale, in considerazione della potenzialità dei rifiuti conferiti;<br>
+c) esercitare la potestà regolamentare attribuita ai Comuni ai sensi dell’articolo 52 del D.Lgs. 15 dicembre 1997, n.446, con particolare riferimento alla gestione del tributo, alle riduzione ed agevolazioni previste dal legislatore.</p><br>
