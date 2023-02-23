@@ -100,102 +100,106 @@ c)	esercitare la potestà regolamentare attribuita ai Comuni ai sensi dell’art
 * i)	i veicoli fuori uso.
 
 4.	Sono rifiuti pericolosi quelli che recano le caratteristiche di cui all’Allegato I della parte quarta del d.lgs. 152/2006.
+
 5.	Ai fini del presente Regolamento si intende per:
-a)	«rifiuto», ai sensi dell’art. 183, comma 1, lett. a), del decreto legislativo 3 aprile 2006, n. 152, qualsiasi sostanza od oggetto di cui il detentore si disfi o abbia l’intenzione o abbia l'obbligo di disfarsi; 
-b)	«produttore di rifiuti»: ai sensi dell’art. 183, comma 1, lett. f), del decreto legislativo 3 aprile 2006, n. 152, il soggetto la cui attività produce rifiuti e il soggetto al quale sia giuridicamente riferibile detta produzione (produttore iniziale) o chiunque effettui operazioni di pretrattamento, di miscelazione o altre operazioni che hanno modificato la natura o la composizione di detti rifiuti (nuovo produttore);
-c)	«detentore», ai sensi dell’art. 183, comma 1, lett. h), del decreto legislativo 3 aprile 2006, n. 152, il produttore dei rifiuti o la persona fisica o giuridica che ne è in possesso;
-d)	«prevenzione»: ai sensi dell’art. 183, comma 1, lett. m), del decreto legislativo 3 aprile 2006, n. 152, le misure adottate prima che una sostanza, un materiale o un prodotto diventi rifiuto che riducono:
+- a)	«rifiuto», ai sensi dell’art. 183, comma 1, lett. a), del decreto legislativo 3 aprile 2006, n. 152, qualsiasi sostanza od oggetto di cui il detentore si disfi o abbia l’intenzione o abbia l'obbligo di disfarsi; 
+- b)	«produttore di rifiuti»: ai sensi dell’art. 183, comma 1, lett. f), del decreto legislativo 3 aprile 2006, n. 152, il soggetto la cui attività produce rifiuti e il soggetto al quale sia giuridicamente riferibile detta produzione (produttore iniziale) o chiunque effettui operazioni di pretrattamento, di miscelazione o altre operazioni che hanno modificato la natura o la composizione di detti rifiuti (nuovo produttore);
+- c)	«detentore», ai sensi dell’art. 183, comma 1, lett. h), del decreto legislativo 3 aprile 2006, n. 152, il produttore dei rifiuti o la persona fisica o giuridica che ne è in possesso;
+- d)	«prevenzione»: ai sensi dell’art. 183, comma 1, lett. m), del decreto legislativo 3 aprile 2006, n. 152, le misure adottate prima che una sostanza, un materiale o un prodotto diventi rifiuto che riducono:
 1)	la quantità dei rifiuti, anche attraverso il riutilizzo dei prodotti o l'estensione del loro ciclo di vita;
 2)	gli impatti negativi dei rifiuti prodotti sull'ambiente e la salute umana;
 3)	il contenuto di sostanze pericolose in materiali e prodotti;
 
-e)	«conferimento»: l’attività di consegna dei rifiuti da parte del produttore o del detentore alle successive fasi di gestione;
-f)	«gestione dei rifiuti», ai sensi dell’art. 183, comma 1, lett. n), del decreto legislativo 3 aprile 2006, n. 152, la raccolta, il trasporto, il recupero, compresa la cernita, e lo smaltimento dei rifiuti, compresi la supervisione di tali operazioni e gli interventi successivi alla chiusura dei siti di smaltimento, nonché le operazioni effettuate in qualità di commerciante o intermediari; non costituiscono attività di gestione dei rifiuti le operazioni di prelievo, raggruppamento, selezione e deposito preliminari alla raccolta di materiali o sostanze naturali derivanti da eventi atmosferici o meteorici, ivi incluse mareggiate e piene, anche ove frammisti ad altri materiali di origine antropica effettuate, nel tempo tecnico strettamente necessario, presso il medesimo sito nel quale detti eventi li hanno depositati;
-g)	«Gestore»: il soggetto affidatario del servizio di gestione dei rifiuti;
-h)	«raccolta», ai sensi dell’art. 183, comma 1, lett. o), del decreto legislativo 3 aprile 2006, n. 152, il prelievo dei rifiuti, compresi la cernita preliminare e il deposito preliminare alla raccolta, ivi compresa la gestione dei centri di raccolta di cui alla lettera «mm» dell’art. 183, comma 1, ai fini del loro trasporto in un impianto di trattamento;
-i)	«raccolta differenziata», ai sensi dell’art. 183, comma 1, lett. p), del decreto legislativo 3 aprile 2006, n. 152, la raccolta in cui un flusso di rifiuti è tenuto separato in base al tipo ed alla natura dei rifiuti al fine di facilitarne il trattamento specifico;
-j)	«riciclaggio», ai sensi dell’art. 183, comma 1, lett. u), del decreto legislativo 3 aprile 2006, n. 152, qualsiasi operazione di recupero attraverso cui i rifiuti sono trattati per ottenere prodotti, materiali o sostanze da utilizzare per la loro funzione originaria o per altri fini. Include il trattamento di materiale organico ma non il recupero di energia né il ritrattamento per ottenere materiali da utilizzare quali combustibili o in operazioni di riempimento;
-k)	«spazzamento delle strade», ai sensi dell’art. 183, comma 1, lett. oo), del decreto legislativo 3 aprile 2006, n. 152, la modalità di raccolta dei rifiuti mediante operazione di pulizia delle strade, aree pubbliche e aree private ad uso pubblico escluse le operazioni di sgombero della neve dalla sede stradale e sue pertinenze, effettuate al solo scopo di garantire la loro fruibilità e la sicurezza del transito;
-l)	«autocompostaggio», ai sensi dell’art. 183, comma 1, lett. e), del decreto legislativo 3 aprile 2006, n. 152, il compostaggio degli scarti organici dei propri rifiuti urbani, effettuato da utenze domestiche e non domestiche, ai fini dell’utilizzo in sito del materiale prodotto;
-m)	«compostaggio di comunità», ai sensi dell’art. 183, comma 1, lett. qq-bis), del decreto legislativo 3 aprile 2006, n. 152, il compostaggio effettuato collettivamente da più utenze domestiche e non domestiche della frazione organica dei rifiuti urbani prodotti dalle medesime, al fine dell’utilizzo del compost prodotto da parte delle utenze conferenti;
-n)	«rifiuto organico», ai sensi dell’art. 183, comma 1, lett. d), del decreto legislativo 3 aprile 2006, n. 152, i rifiuti biodegradabili di giardini e parchi, rifiuti alimentari e di cucina prodotti da nuclei domestici, ristoranti, uffici, attività all'ingrosso, mense, servizi di ristorazione e punti vendita al dettaglio e rifiuti equiparabili prodotti dagli impianti dell'industria alimentare;
-o)	«rifiuti alimentari», ai sensi dell’art. 183, comma 1, lett. d-bis), del decreto legislativo 3 aprile 2006, n. 152, tutti gli alimenti di cui all'articolo 2 del regolamento (CE) n.178/2002 del Parlamento europeo e del Consiglio che sono diventati rifiuti;
-p)	«utenza domestica»: l’utenza adibita o destinata ad uso di civile abitazione;
-q)	«utenza non domestica»: l’utenza adibita o destinata ad usi diversi dall’utenza domestica;
-r)	«parte fissa della tassa»: è la quota parte della tassa rifiuti relativa alle componenti essenziali del costo del servizio riferite in particolare agli investimenti per le opere ed ai relativi ammortamenti, nonché ad altri costi di esercizio non ricompresi nella parte variabile della tassa oltre ai costi destinati al godimento collettivo di un ambiente pulito e alla tutela dell’ambiente;
-s)	«parte variabile della tassa»: è la quota parte della tassa rifiuti che comprende i costi rapportati alla quantità di rifiuti conferiti, ai servizi forniti e all’entità dei costi di gestione;
-t)	«Centro di Raccolta», ai sensi dell’art. 183, comma 1, lett. mm), del decreto legislativo 3 aprile 2006, n. 152, un’area presidiata ed allestita, senza nuovi o maggiori oneri a carico della finanza pubblica, per l'attività di raccolta mediante raggruppamento differenziato dei rifiuti urbani per frazioni omogenee conferiti dai detentori per il trasporto agli impianti di recupero e trattamento;
-u)	«Centro del Riuso»: locale o area presidiata allestita per il ritiro, l'esposizione e la distribuzione, senza fini di lucro, di beni usati e funzionanti suscettibili di riutilizzo;
-v)	«riutilizzo», ai sensi dell’art. 183, comma 1, lett. r) del decreto legislativo 3 aprile 2006, n. 152, qualsiasi operazione attraverso la quale prodotti o componenti che non sono rifiuti sono reimpiegati per la stessa finalità per la quale erano stati concepiti.
-w)	«preparazione per il riutilizzo», ai sensi dell’art. 183, c. 1, lett. q) del decreto legislativo 3 aprile 2006, n. 152, le operazioni di controllo, pulizia, smontaggio e riparazione attraverso cui prodotti o componenti di prodotti diventati rifiuti sono preparati in modo da poter essere reimpiegati senza altro pretrattamento.
-x)	«recupero», ai sensi dell’art. 183, c. 1, lett. t) del decreto legislativo 3 aprile 2006, n. 152, qualsiasi operazione il cui principale risultato sia di permettere ai rifiuti di svolgere un ruolo utile, sostituendo altri materiali che sarebbero stati altrimenti utilizzati per assolvere una particolare funzione o di prepararli ad assolvere tale funzione, all'interno dell'impianto o nell'economia in generale.
+- e)	«conferimento»: l’attività di consegna dei rifiuti da parte del produttore o del detentore alle successive fasi di gestione;
+- f)	«gestione dei rifiuti», ai sensi dell’art. 183, comma 1, lett. n), del decreto legislativo 3 aprile 2006, n. 152, la raccolta, il trasporto, il recupero, compresa la cernita, e lo smaltimento dei rifiuti, compresi la supervisione di tali operazioni e gli interventi successivi alla chiusura dei siti di smaltimento, nonché le operazioni effettuate in qualità di commerciante o intermediari; non costituiscono attività di gestione dei rifiuti le operazioni di prelievo, raggruppamento, selezione e deposito preliminari alla raccolta di materiali o sostanze naturali derivanti da eventi atmosferici o meteorici, ivi incluse mareggiate e piene, anche ove frammisti ad altri materiali di origine antropica effettuate, nel tempo tecnico strettamente necessario, presso il medesimo sito nel quale detti eventi li hanno depositati;
+- g)	«Gestore»: il soggetto affidatario del servizio di gestione dei rifiuti;
+- h)	«raccolta», ai sensi dell’art. 183, comma 1, lett. o), del decreto legislativo 3 aprile 2006, n. 152, il prelievo dei rifiuti, compresi la cernita preliminare e il deposito preliminare alla raccolta, ivi compresa la gestione dei centri di raccolta di cui alla lettera «mm» dell’art. 183, comma 1, ai fini del loro trasporto in un impianto di trattamento;
+- i)	«raccolta differenziata», ai sensi dell’art. 183, comma 1, lett. p), del decreto legislativo 3 aprile 2006, n. 152, la raccolta in cui un flusso di rifiuti è tenuto separato in base al tipo ed alla natura dei rifiuti al fine di facilitarne il trattamento specifico;
+- j)	«riciclaggio», ai sensi dell’art. 183, comma 1, lett. u), del decreto legislativo 3 aprile 2006, n. 152, qualsiasi operazione di recupero attraverso cui i rifiuti sono trattati per ottenere prodotti, materiali o sostanze da utilizzare per la loro funzione originaria o per altri fini. Include il trattamento di materiale organico ma non il recupero di energia né il ritrattamento per ottenere materiali da utilizzare quali combustibili o in operazioni di riempimento;
+- k)	«spazzamento delle strade», ai sensi dell’art. 183, comma 1, lett. oo), del decreto legislativo 3 aprile 2006, n. 152, la modalità di raccolta dei rifiuti mediante operazione di pulizia delle strade, aree pubbliche e aree private ad uso pubblico escluse le operazioni di sgombero della neve dalla sede stradale e sue pertinenze, effettuate al solo scopo di garantire la loro fruibilità e la sicurezza del transito;
+- l)	«autocompostaggio», ai sensi dell’art. 183, comma 1, lett. e), del decreto legislativo 3 aprile 2006, n. 152, il compostaggio degli scarti organici dei propri rifiuti urbani, effettuato da utenze domestiche e non domestiche, ai fini dell’utilizzo in sito del materiale prodotto;
+- m)	«compostaggio di comunità», ai sensi dell’art. 183, comma 1, lett. qq-bis), del decreto legislativo 3 aprile 2006, n. 152, il compostaggio effettuato collettivamente da più utenze domestiche e non domestiche della frazione organica dei rifiuti urbani prodotti dalle medesime, al fine dell’utilizzo del compost prodotto da parte delle utenze conferenti;
+- n)	«rifiuto organico», ai sensi dell’art. 183, comma 1, lett. d), del decreto legislativo 3 aprile 2006, n. 152, i rifiuti biodegradabili di giardini e parchi, rifiuti alimentari e di cucina prodotti da nuclei domestici, ristoranti, uffici, attività all'ingrosso, mense, servizi di ristorazione e punti vendita al dettaglio e rifiuti equiparabili prodotti dagli impianti dell'industria alimentare;
+- o)	«rifiuti alimentari», ai sensi dell’art. 183, comma 1, lett. d-bis), del decreto legislativo 3 aprile 2006, n. 152, tutti gli alimenti di cui all'articolo 2 del regolamento (CE) n.178/2002 del Parlamento europeo e del Consiglio che sono diventati rifiuti;
+- p)	«utenza domestica»: l’utenza adibita o destinata ad uso di civile abitazione;
+- q)	«utenza non domestica»: l’utenza adibita o destinata ad usi diversi dall’utenza domestica;
+- r)	«parte fissa della tassa»: è la quota parte della tassa rifiuti relativa alle componenti essenziali del costo del servizio riferite in particolare agli investimenti per le opere ed ai relativi ammortamenti, nonché ad altri costi di esercizio non ricompresi nella parte variabile della tassa oltre ai costi destinati al godimento collettivo di un ambiente pulito e alla tutela dell’ambiente;
+- s)	«parte variabile della tassa»: è la quota parte della tassa rifiuti che comprende i costi rapportati alla quantità di rifiuti conferiti, ai servizi forniti e all’entità dei costi di gestione;
+- t)	«Centro di Raccolta», ai sensi dell’art. 183, comma 1, lett. mm), del decreto legislativo 3 aprile 2006, n. 152, un’area presidiata ed allestita, senza nuovi o maggiori oneri a carico della finanza pubblica, per l'attività di raccolta mediante raggruppamento differenziato dei rifiuti urbani per frazioni omogenee conferiti dai detentori per il trasporto agli impianti di recupero e trattamento;
+- u)	«Centro del Riuso»: locale o area presidiata allestita per il ritiro, l'esposizione e la distribuzione, senza fini di lucro, di beni usati e funzionanti suscettibili di riutilizzo;
+- v)	«riutilizzo», ai sensi dell’art. 183, comma 1, lett. r) del decreto legislativo 3 aprile 2006, n. 152, qualsiasi operazione attraverso la quale prodotti o componenti che non sono rifiuti sono reimpiegati per la stessa finalità per la quale erano stati concepiti.
+- w)	«preparazione per il riutilizzo», ai sensi dell’art. 183, c. 1, lett. q) del decreto legislativo 3 aprile 2006, n. 152, le operazioni di controllo, pulizia, smontaggio e riparazione attraverso cui prodotti o componenti di prodotti diventati rifiuti sono preparati in modo da poter essere reimpiegati senza altro pretrattamento.
+- x)	«recupero», ai sensi dell’art. 183, c. 1, lett. t) del decreto legislativo 3 aprile 2006, n. 152, qualsiasi operazione il cui principale risultato sia di permettere ai rifiuti di svolgere un ruolo utile, sostituendo altri materiali che sarebbero stati altrimenti utilizzati per assolvere una particolare funzione o di prepararli ad assolvere tale funzione, all'interno dell'impianto o nell'economia in generale.
 
 
 
-Art. 4 - Soggetto attivo
+**Art. 4 - Soggetto attivo**
 1. Ai sensi della normativa richiamata, il Comune è soggetto attivo dell’obbligazione tributaria disciplinata dal presente regolamento, con riferimento a tutti gli immobili la cui superficie insiste, interamente o prevalentemente, sul territorio comunale.
 
-Art. 5 - Soggetto passivo
+**Art. 5 - Soggetto passivo**
 1.	Il tributo è dovuto da chiunque possieda, occupi o detenga a qualsiasi titolo o aree coperte, a qualsiasi uso adibiti, suscettibili di produrre rifiuti urbani di cui all’art. 184 del D.lgs n. 152 del 03/04/2006 e s.m.i. e rifiuti espressamente assimilabili (se speciali e non pericolosi) con il regolamento comunale di San Clemente.
 2.	Qualora vi sia un utilizzo temporaneo, di durata non superiore a sei mesi nel corso dello stesso anno solare, il tributo è dovuto soltanto dal possessore dei locali e delle aree a titolo di proprietà, usufrutto, uso, abitazione, superficie.
 3.	In presenza di locali in multiproprietà e di centri commerciali integrati, responsabile del versamento del tributo dovuto per i locali e per le aree scoperte di uso comune, è il soggetto che gestisce i servizi comuni. I locali e le aree scoperte in uso esclusivo restano invece a carico dei singoli occupanti o detentori.
 4.	Per i locali destinati ad attività ricettiva, (residence, affittacamere e simili) la tariffa è dovuta da chi gestisce l’attività; i locali di affittacamere sono quelli per i quali l’attività è conseguente ad una comunicazione al competente ufficio comunale. Le attività del presente comma sono considerate, a tutti gli effetti, utenze non domestiche.
 5.	Per le organizzazioni prive di personalità giuridica la tariffa è dovuta da chi le presiede o le rappresenta. Nel caso di associazioni non riconosciute la responsabilità del pagamento del tributo è di chi le presiede o le rappresenta in solido con tutti i soci.
 
-Art. 6 - Presupposto oggettivo
+**Art. 6 - Presupposto oggettivo**
 1.	Il presupposto oggettivo è costituito dal possesso o dalla detenzione a qualsiasi titolo, di locali o aree scoperte, a qualsiasi uso adibiti, suscettibili di produrre rifiuti urbani.
 2.	Nelle unità immobiliari adibite a civile abitazione, qualora una parte della superficie sia utilizzata per lo svolgimento di un’attività libero professionale, relativamente a tale superficie, si applica la tariffa vigente per l’attività stessa.
-Art. 7 - Definizione di locali imponibili
+
+**Art. 7 - Definizione di locali imponibili**
 1.	Sono considerati locali, ai fini dell’assoggettamento al tributo sui rifiuti, tutti i fabbricati esistenti sul territorio comunale, così come specificato al precedente articolo 5, nonché qualsiasi locale e/o costruzione stabilmente ancorata al suolo, chiuso su tre lati verso l’esterno, a qualsiasi uso adibiti, purché suscettibili di produrre rifiuti urbani o ad essi assimilabili.
 2.	I fabbricati adibiti ad uso residenziale non sono assoggettati al tributo solamente in assenza di potenzialità alla produzione del rifiuto e ciò si intende quando non sono presenti utenze dei servizi di acqua, luce e gas (al di fuori di quelli centralizzati nei condomini e/o fabbricati con più unità immobiliari) e non sono presenti arredi di alcun genere. Anche in assenza dei presupposti di cui al precedente capoverso, l’occupazione di un locale ad uso domestico si presume, senza la possibilità di prova contraria, dalla data di acquisizione della residenza anagrafica.
 
-Art. 8 - Locali esclusi dalla tassazione
+**Art. 8 - Locali esclusi dalla tassazione**
 1.	Sono esclusi dalla tassazione:
-a) le superfici dei locali dove normalmente si producono rifiuti speciali, non assimilabili a quelli urbani, tossici e nocivi, in riferimento alla normativa vigente, purché il produttore dimostri che questi vengono avviati allo smaltimento attraverso specifici soggetti abilitati alla raccolta degli stessi in conformità alla normativa vigente, fatto salvo quanto previsto all’art. 11 comma 2 del presente regolamento. A tal fine, a pena di decadenza, il soggetto passivo dovrà presentare al Comune copia del formulario di identificazione dei rifiuti entro 60 giorni dalla fine dell’anno successivo a quello di riferimento. In difetto, l’intera superficie sarà assoggettata al tributo per l’intero anno solare.
-b) la porzione di supeficie dei magazzini funzionalmente collegata all’esercizio dell’attività produttiva, occupata da materie prime e/o merci, merceologicamente rientranti nella categoria dei rifiuti speciali, la cui lavorazione genera comunque rifiuti speciali, fermo restando l’assoggettamento delle restanti aree e dei magazzini destinati allo stoccaggio di prodotti finiti e di semilavorati e comunque delle parti dell’area dove vi è presenza di persone fisiche e vi sia produzione di rifiuto urbano.
+- a) le superfici dei locali dove normalmente si producono rifiuti speciali, non assimilabili a quelli urbani, tossici e nocivi, in riferimento alla normativa vigente, purché il produttore dimostri che questi vengono avviati allo smaltimento attraverso specifici soggetti abilitati alla raccolta degli stessi in conformità alla normativa vigente, **fatto salvo quanto previsto all’art. 11 comma 2 del presente regolamento. A tal fine, a pena di decadenza, il soggetto passivo dovrà presentare al Comune copia del formulario di identificazione dei rifiuti entro 60 giorni dalla fine dell’anno successivo a quello di riferimento. In difetto, l’intera superficie sarà assoggettata al tributo per l’intero anno solare.**
+- b) la porzione di supeficie dei magazzini funzionalmente collegata all’esercizio dell’attività produttiva, occupata da materie prime e/o merci, merceologicamente rientranti nella categoria dei rifiuti speciali, la cui lavorazione genera comunque rifiuti speciali, fermo restando l’assoggettamento delle restanti aree e dei magazzini destinati allo stoccaggio di prodotti finiti e di semilavorati e comunque delle parti dell’area dove vi è presenza di persone fisiche e vi sia produzione di rifiuto urbano.
 
 2.	Sono altresì esclusi dalla tassazione:
-a.	le centrali termiche ed i locali riservati ad impianti tecnologici, quali cabine elettriche, vani ascensori, celle frigorifere, locali di essicazione e stagionatura (senza lavorazione), silos e simili ove non si ha, di regola, presenza umana;
-b.	la parte degli impianti sportivi riservata, di norma, ai soli praticanti, sia che detti impianti siano ubicati in aree scoperte che in locali;
+- a.	le centrali termiche ed i locali riservati ad impianti tecnologici, quali cabine elettriche, vani ascensori, celle frigorifere, locali di essicazione e stagionatura (senza lavorazione), silos e simili ove non si ha, di regola, presenza umana;
+- b.	la parte degli impianti sportivi riservata, di norma, ai soli praticanti, sia che detti impianti siano ubicati in aree scoperte che in locali;
 c.	fabbricati danneggiati, non agibili, in ristrutturazione purché tale circostanza sia attestata da opportuna documentazione, per il periodo durante il quale permangono queste condizioni e vi sia effettiva assenza di occupazione;
-d.	le superfici comuni dei condomini, di cui all’art. 1117 del codice civile, relative alle scale e agli ingressi, purché non utilizzati in via esclusiva.
-e.	I fabbricati rurali destinati all’attività di cui all’art. 2135 c.c.. insistenti sul fondo agricolo e relative pertinenze. Sono invece assoggettate a tariffe le parti abitative delle costruzioni rurali nonché i locali e le aree che non sono di stretta pertinenza dell’impresa agricola, ancorché risultino ubicate sul fondo;
-f.	solai e sottotetti non collegati da scale, ascensori o montacarichi;
-g.	le superfici di solai e sottotetti collegati da scale, ascensori o montacarichi per la parte con altezza inferiore a metri 1,50;
-h.	i locali adibiti esclusivamente all’esercizio di culti ammessi dallo Stato (es chiese e sagrestie).
-i.	fabbricati danneggiati, non agibili, in ristrutturazione purché tale circostanza sia attestata da opportuna documentazione, per il periodo durante il quale permangono queste condizioni e vi sia effettiva assenza di occupazione;
+- d.	le superfici comuni dei condomini, di cui all’art. 1117 del codice civile, relative alle scale e agli ingressi, purché non utilizzati in via esclusiva.
+- e.	I fabbricati rurali destinati all’attività di cui all’art. 2135 c.c.. insistenti sul fondo agricolo e relative pertinenze. Sono invece assoggettate a tariffe le parti abitative delle costruzioni rurali nonché i locali e le aree che non sono di stretta pertinenza dell’impresa agricola, ancorché risultino ubicate sul fondo;
+- f.	solai e sottotetti non collegati da scale, ascensori o montacarichi;
+- g.	le superfici di solai e sottotetti collegati da scale, ascensori o montacarichi per la parte con altezza inferiore a metri 1,50;
+- h.	i locali adibiti esclusivamente all’esercizio di culti ammessi dallo Stato (es chiese e sagrestie).
+- i.	fabbricati danneggiati, non agibili, in ristrutturazione purché tale circostanza sia attestata da opportuna documentazione, per il periodo durante il quale permangono queste condizioni e vi sia effettiva assenza di occupazione;
 
 3.	Con riferimento agli impianti di distribuzione di carburanti:
-a.	Sono esclusi dalla tassa: le aree scoperte non utilizzate né utilizzabili perché impraticabili o escluse dall’uso con recinzione visibile; le aree su cui insiste l’impianto di lavaggio degli automezzi; le aree visibilmente adibite in via esclusiva all’accesso e all’uscita dei veicoli dall’area di servizio e dal lavaggio;
-b.	Sono soggetti alla tassa: i distributori di carburante per i locali adibiti a magazzini e uffici, nonché l’area di proiezione in piano della pensilina ovvero, in mancanza, la superficie convenzionale calcolata sulla base di venti metri quadrati per colonnina di erogazione. 
+- a.	Sono esclusi dalla tassa: le aree scoperte non utilizzate né utilizzabili perché impraticabili o escluse dall’uso con recinzione visibile; le aree su cui insiste l’impianto di lavaggio degli automezzi; le aree visibilmente adibite in via esclusiva all’accesso e all’uscita dei veicoli dall’area di servizio e dal lavaggio;
+- b.	Sono soggetti alla tassa: i distributori di carburante per i locali adibiti a magazzini e uffici, nonché l’area di proiezione in piano della pensilina ovvero, in mancanza, la superficie convenzionale calcolata sulla base di venti metri quadrati per colonnina di erogazione. 
 
 4. L’esclusione dal pagamento della tassa rifiuti, in base ai casi previsti nei commi precedenti, dovrà essere comunque supportata da documentazione attestante la veridicità di quanto dichiarato dal contribuente in apposita dichiarazione sostitutiva resa ai sensi del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445 o certificata a seguito di attività di verifica del Gestore.
 5.   Nel caso in cui sia accertato il conferimento di rifiuti al pubblico servizio da parte di utenze escluse dalla tassa o provenienti da aree escluse dalla tassa ai sensi del presente articolo, si applica la tassa a partire dal 1° gennaio dell’anno di riferimento, fatta salva la possibilità di prova contraria da parte del contribuente, ferma restando l’applicazione delle sanzioni di legge.
 
-Art. 9 - Definizione di aree imponibili
+**Art. 9 - Definizione di aree imponibili**
 1. Sono considerate aree assoggettabili alla tassa sui rifiuti, tutte le aree scoperte operative di pertinenza di utenze non domestiche a cui è applicato il tributo medesimo.
 2. Le aree suddette sono assoggettate alla medesima tariffa applicata al fabbricato di cui costituiscono pertinenza.
 
-Art. 10 - Aree escluse dalla tassazione
+**Art. 10 - Aree escluse dalla tassazione**
 1. Sono escluse dall’applicazione del tributo, oltre alle superfici scoperte in condizioni analoghe a quelle indicate al comma 1 dell’articolo 8:
-a.	le aree scoperte pertinenziali o accessorie a civili abitazioni, quali i balconi e le terrazze scoperte, i posti auto scoperti, i cortili, i giardini e i parchi;
-b.	le aree comuni condominiali di cui all'articolo 1117 c.c. che non siano detenute o occupate in via esclusiva, come androni, scale, ascensori, stenditoi o altri luoghi di passaggio o di utilizzo comune tra i condomini.
+- a.	le aree scoperte pertinenziali o accessorie a civili abitazioni, quali i balconi e le terrazze scoperte, i posti auto scoperti, i cortili, i giardini e i parchi;
+- b.	le aree comuni condominiali di cui all'articolo 1117 c.c. che non siano detenute o occupate in via esclusiva, come androni, scale, ascensori, stenditoi o altri luoghi di passaggio o di utilizzo comune tra i condomini.
 2. Sono altresì escluse:
-a.	le aree non accessibili e/o intercluse da stabile recinzione;
-b.	le aree abbandonate e comunque in condizioni tali da evidenziarne il mancato utilizzo.
-c.	le aree adibite in via esclusiva al transito o alla sosta gratuita dei veicoli;
+- a.	le aree non accessibili e/o intercluse da stabile recinzione;
+- b.	le aree abbandonate e comunque in condizioni tali da evidenziarne il mancato utilizzo.
+- c.	le aree adibite in via esclusiva al transito o alla sosta gratuita dei veicoli;
 
-Art. 11 - Locali ed aree con produzione di rifiuti speciali
+**Art. 11 - Locali ed aree con produzione di rifiuti speciali**
 1.	I locali e le aree in cui si producono normalmente rifiuti speciali, non sono assoggettati alla tassa purché il soggetto passivo dimostri l’avvenuto avvio allo smaltimento in conformità alla normativa vigente.
 2.	In presenza di locali e/o aree in cui vi sia contestuale produzione di rifiuti urbani e/o rifiuti speciali e non sia possibile circoscrivere la superficie in cui si formano rifiuti speciali non assimilabili agli urbani, la stessa superficie tassabile è ridotta, a seguito di istanza presentata dal produttore del rifiuto corredata da idonea documentazione, delle seguenti misure percentuali:
-A T T I V I T A'	Riduzione superficie
-Gabinetti dentistici, radiologici e laboratori odontotecnici, autoservizi, autolavaggi, auto-rimessaggi, officina trasporti di carburanti	10%
-Laboratori d’analisi, metalmeccanici, fabbri	15%
-Falegnamerie, vetrerie, lavanderie a secco, tintorie non industriali, allestimenti, produzione di materiale pubblicitario, lavorazioni materie plastiche e vetroresine	20%
-Laboratori fotografici, eliografie, tipografie, stamperie, serigrafie, litografie, incisorie	25%
-Marmisti e lapidei	30%
-Carrozzerie, autoriparatori, elettrauto, demolitori e rottamai, riparazioni elettrodomestici, elettricisti	30%
-Verniciatura, lucidatura mobili e infissi, galvanotecnici, fonderie, ceramiche e smalterie, lavorazioni pelle	40%
+
+| A T T I V I T A' |	Riduzione superficie |
+|------------------------------------------------------------------------------------------------------------------------------| ---------- |
+| Gabinetti dentistici, radiologici e laboratori odontotecnici, autoservizi, autolavaggi, auto-rimessaggi, officina trasporti di carburanti	| 10% |
+| Laboratori d’analisi, metalmeccanici, fabbri	| 15% |
+| Falegnamerie, vetrerie, lavanderie a secco, tintorie non industriali, allestimenti, produzione di materiale pubblicitario, lavorazioni materie plastiche e vetroresine | 20% |
+| Laboratori fotografici, eliografie, tipografie, stamperie, serigrafie, litografie, incisorie | 25% |
+| Marmisti e lapidei | 30% |
+| Carrozzerie, autoriparatori, elettrauto, demolitori e rottamai, riparazioni elettrodomestici, elettricisti | 30% |
+| Verniciatura, lucidatura mobili e infissi, galvanotecnici, fonderie, ceramiche e smalterie, lavorazioni pelle |	40% |
 
 3.	Per eventuali attività non comprese nell'elenco sopraindicato, si fa riferimento a criteri di analogia, in relazione alla potenzialità produttiva quali-quantitativa di rifiuti.
 4.	In assenza di richiesta da parte del produttore dei rifiuti o di presentazione della necessaria documentazione, non potrà essere applicato alcun abbattimento.
