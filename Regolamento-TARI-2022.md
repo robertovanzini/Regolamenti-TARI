@@ -9,57 +9,55 @@
 Approvato con delibera di Consiglio Comunale n. 37 del 28/09/2020 e modificato con delibera di CC n 22 del 29/06/2021 e n. 26 del 30/05/2022
 
 ### SOMMARIO ###	
-**Art. 1 – Disciplina della tassa sui rifiuti**
-
-**Art. 2 – Oggetto e ambito di applicazione del regolamento**	
-Art. 3 – Definizioni 	
-Art. 4 – Soggetto attivo	
-Art. 5 – Soggetto passivo	
-Art. 6 – Presupposto oggettivo	
-Art. 7 – Definizione di locali imponibili	
-Art. 8 – Locali esclusi dalla tassazione	
-Art. 9 – Definizione di aree imponibili	
-Art. 10 – Aree escluse dalla tassazione	
-Art. 11 – Locali ed aree con produzione di rifiuti speciali	
-Art. 12 – Vincolo di solidarietà	
-Art. 13 – Composizione della tariffa	
-Art. 14 – Commisurazione della tariffa	
-Art. 15 – Calcolo della tariffa per le utenze domestiche	
-Art. 16 – Calcolo della tariffa per le utenze non domestiche	
-Art. 17 – Determinazione della superficie imponibile	
-Art. 18 – Aree di pertinenza di utenze non domestiche	
-Art. 19 – Tributo per le istituzioni scolastiche	
-Art. 20 – Tributo provinciale	
-Art. 21 – Piano finanziario	
-Art. 22 – Utenze domestiche	
-Art. 23 – Classificazione delle utenze domestiche	
-Art. 24 – Utenze non domestiche	
-Art. 25 – Classificazione delle utenze non domestiche	
-Art. 26 – Istanza per riduzioni, agevolazioni, esenzioni	
-Art. 27 – Criteri per riduzioni	
-Art. 28 – Criteri per le agevolazioni a carico del piano economico finanziario	
-Art. 29 – Criteri per particolari riduzioni ed esenzioni a carico del bilancio comunale	
-Art. 29 bis – Interventi a favore di utenze non domestiche penalizzate dalla situazione emergenziale
-                 Determinata dalla pandemia Covid-19	
-Art. 30 – Casi di esenzione	
-Art. 31 – Agevolazioni per l’avvio al riciclo di rifiuti urbani delle utenze non domestiche 	
-Art. 32 – Agevolazioni per l’avvio al recupero di rifiuti urbani delle utenze non domestiche	
-Art. 33 – Obblighi di comunicazione per l’uscita e il reintegro dal /nel servizio pubblico di raccolta	
-Art. 34 – Riduzioni per raccolta differenziata delle utenze domestiche	
-Art. 35 – Tributo giornaliero	
-Art. 36 – Applicazione del tributo giornaliero in caso di occupazione abusive	
-Art. 37 – Dichiarazione di detenzione o possesso, di variazione e di cessione	
-Art. 38 – Termini per il pagamento del tributo	
-Art. 39 – Versamento del tributo	
-Art. 40 – Dilazioni di pagamento e rateazioni	
-Art. 41 – Rimborsi e arrotondamenti	
-Art. 42 – Importi minimi e altre disposizioni	
-Art. 43 – Funzionario responsabile	
-Art. 44 – Accertamenti	
-Art. 45 – Sanzioni	
-Art. 46 – Contenzioso	
-Art. 47 – Trattamento dei dati personali	
-Art. 48 – Disposizioni finali e transitorie	
+* Art. 1 – Disciplina della tassa sui rifiuti**
+* Art. 2 – Oggetto e ambito di applicazione del regolamento**	
+* Art. 3 – Definizioni 	
+* Art. 4 – Soggetto attivo	
+* Art. 5 – Soggetto passivo	
+* Art. 6 – Presupposto oggettivo	
+* Art. 7 – Definizione di locali imponibili	
+* Art. 8 – Locali esclusi dalla tassazione	
+* Art. 9 – Definizione di aree imponibili	
+* Art. 10 – Aree escluse dalla tassazione	
+* Art. 11 – Locali ed aree con produzione di rifiuti speciali	
+* Art. 12 – Vincolo di solidarietà	
+* Art. 13 – Composizione della tariffa	
+* Art. 14 – Commisurazione della tariffa	
+* Art. 15 – Calcolo della tariffa per le utenze domestiche	
+* Art. 16 – Calcolo della tariffa per le utenze non domestiche	
+* Art. 17 – Determinazione della superficie imponibile	
+* Art. 18 – Aree di pertinenza di utenze non domestiche	
+* Art. 19 – Tributo per le istituzioni scolastiche	
+* Art. 20 – Tributo provinciale	
+* Art. 21 – Piano finanziario	
+* Art. 22 – Utenze domestiche	
+* Art. 23 – Classificazione delle utenze domestiche	
+* Art. 24 – Utenze non domestiche	
+* Art. 25 – Classificazione delle utenze non domestiche	
+* Art. 26 – Istanza per riduzioni, agevolazioni, esenzioni	
+* Art. 27 – Criteri per riduzioni	
+* Art. 28 – Criteri per le agevolazioni a carico del piano economico finanziario	
+* Art. 29 – Criteri per particolari riduzioni ed esenzioni a carico del bilancio comunale	
+* Art. 29 bis – Interventi a favore di utenze non domestiche penalizzate dalla situazione emergenziale determinata dalla pandemia Covid-19	
+* Art. 30 – Casi di esenzione	
+* Art. 31 – Agevolazioni per l’avvio al riciclo di rifiuti urbani delle utenze non domestiche 	
+* Art. 32 – Agevolazioni per l’avvio al recupero di rifiuti urbani delle utenze non domestiche	
+* Art. 33 – Obblighi di comunicazione per l’uscita e il reintegro dal /nel servizio pubblico di raccolta	
+* Art. 34 – Riduzioni per raccolta differenziata delle utenze domestiche	
+* Art. 35 – Tributo giornaliero	
+* Art. 36 – Applicazione del tributo giornaliero in caso di occupazione abusive	
+* Art. 37 – Dichiarazione di detenzione o possesso, di variazione e di cessione	
+* Art. 38 – Termini per il pagamento del tributo	
+* Art. 39 – Versamento del tributo	
+* Art. 40 – Dilazioni di pagamento e rateazioni	
+* Art. 41 – Rimborsi e arrotondamenti	
+* Art. 42 – Importi minimi e altre disposizioni	
+* Art. 43 – Funzionario responsabile	
+* Art. 44 – Accertamenti	
+* Art. 45 – Sanzioni	
+* Art. 46 – Contenzioso	
+* Art. 47 – Trattamento dei dati personali	
+* Art. 48 – Disposizioni finali e transitorie	
  
 
 **Art. 1 - Disciplina della tassa sui rifiuti**
@@ -82,24 +80,24 @@ c)	esercitare la potestà regolamentare attribuita ai Comuni ai sensi dell’art
 **Art. 3 - Definizioni** 
 1.	I rifiuti sono classificati, secondo l’origine, in rifiuti urbani e rifiuti speciali e, secondo le caratteristiche di pericolosità, in rifiuti pericolosi e rifiuti non pericolosi.
 2.	Sono rifiuti urbani:
-a)	i rifiuti domestici indifferenziati e da raccolta differenziata, ivi compresi: carta e cartone, vetro, metalli, plastica, rifiuti organici, legno, tessili, imballaggi, rifiuti di apparecchiature elettriche ed elettroniche, rifiuti di pile e accumulatori e rifiuti ingombranti, ivi compresi materassi e mobili;
-b)	i rifiuti indifferenziati e da raccolta differenziata provenienti da altre fonti che sono simili per natura e composizione ai rifiuti domestici indicati nell'allegato L-quater prodotti dalle attività riportate nell'allegato L-quinquies del d.lgs. 152/2006;
-c)	i rifiuti provenienti dallo spazzamento delle strade e dallo svuotamento dei cestini portarifiuti;
-d)	i rifiuti di qualunque natura o provenienza, giacenti sulle strade ed aree pubbliche o sulle strade ed aree private comunque soggette ad uso pubblico o sulle spiagge marittime e lacuali e sulle rive dei corsi d'acqua;
-e)	i rifiuti della manutenzione del verde pubblico, come foglie, sfalci d'erba e potature di alberi, nonché i rifiuti risultanti dalla pulizia dei mercati;
-f)	i rifiuti provenienti da aree cimiteriali, esumazioni ed estumulazioni, nonché gli altri rifiuti provenienti da attività cimiteriale diversi da quelli di cui ai punti 3,4 e 5;
-g)	I rifiuti urbani non includono i rifiuti della produzione, dell'agricoltura, della silvicoltura, della pesca, delle fosse settiche, delle reti fognarie e degli impianti di trattamento delle acque reflue, ivi compresi i fanghi di depurazione, i veicoli fuori uso o i rifiuti da costruzione e demolizione.
+* a)	i rifiuti domestici indifferenziati e da raccolta differenziata, ivi compresi: carta e cartone, vetro, metalli, plastica, rifiuti organici, legno, tessili, imballaggi, rifiuti di apparecchiature elettriche ed elettroniche, rifiuti di pile e accumulatori e rifiuti ingombranti, ivi compresi materassi e mobili;
+* b)	i rifiuti indifferenziati e da raccolta differenziata provenienti da altre fonti che sono simili per natura e composizione ai rifiuti domestici indicati nell'allegato L-quater prodotti dalle attività riportate nell'allegato L-quinquies del d.lgs. 152/2006;
+* c)	i rifiuti provenienti dallo spazzamento delle strade e dallo svuotamento dei cestini portarifiuti;
+* d)	i rifiuti di qualunque natura o provenienza, giacenti sulle strade ed aree pubbliche o sulle strade ed aree private comunque soggette ad uso pubblico o sulle spiagge marittime e lacuali e sulle rive dei corsi d'acqua;
+* e)	i rifiuti della manutenzione del verde pubblico, come foglie, sfalci d'erba e potature di alberi, nonché i rifiuti risultanti dalla pulizia dei mercati;
+* f)	i rifiuti provenienti da aree cimiteriali, esumazioni ed estumulazioni, nonché gli altri rifiuti provenienti da attività cimiteriale diversi da quelli di cui ai punti 3,4 e 5;
+* g)	I rifiuti urbani non includono i rifiuti della produzione, dell'agricoltura, della silvicoltura, della pesca, delle fosse settiche, delle reti fognarie e degli impianti di trattamento delle acque reflue, ivi compresi i fanghi di depurazione, i veicoli fuori uso o i rifiuti da costruzione e demolizione.
 
 3.	Sono rifiuti speciali:
-a)	i rifiuti prodotti nell'ambito delle attività agricole, agroindustriali e della silvicoltura, ai sensi e per gli effetti dell'articolo 2135 del Codice civile, e della pesca;
-b)	i rifiuti prodotti dalle attività di costruzione e demolizione, nonché i rifiuti che derivano dalle attività di scavo, fermo restando quanto disposto dall'articolo 184-bis del d.lgs. 152/2006;
-c)	i rifiuti prodotti nell'ambito delle lavorazioni industriali se diversi dai rifiuti urbani;
-d)	i rifiuti prodotti nell'ambito delle lavorazioni artigianali se diversi dai rifiuti urbani;
-e)	i rifiuti prodotti nell'ambito delle attività commerciali se diversi dai rifiuti urbani;
-f)	i rifiuti prodotti nell'ambito delle attività di servizio se diversi dai rifiuti urbani;
-g)	i rifiuti derivanti dall'attività di recupero e smaltimento di rifiuti, i fanghi prodotti dalla potabilizzazione e da altri trattamenti delle acque e dalla depurazione delle acque reflue, nonché i rifiuti da abbattimento di fumi, dalle fosse settiche e dalle reti fognarie;
-h)	i rifiuti derivanti da attività sanitarie se diversi dai rifiuti urbani;
-i)	i veicoli fuori uso.
+* a)	i rifiuti prodotti nell'ambito delle attività agricole, agroindustriali e della silvicoltura, ai sensi e per gli effetti dell'articolo 2135 del Codice civile, e della pesca;
+* b)	i rifiuti prodotti dalle attività di costruzione e demolizione, nonché i rifiuti che derivano dalle attività di scavo, fermo restando quanto disposto dall'articolo 184-bis del d.lgs. 152/2006;
+* c)	i rifiuti prodotti nell'ambito delle lavorazioni industriali se diversi dai rifiuti urbani;
+* d)	i rifiuti prodotti nell'ambito delle lavorazioni artigianali se diversi dai rifiuti urbani;
+* e)	i rifiuti prodotti nell'ambito delle attività commerciali se diversi dai rifiuti urbani;
+* f)	i rifiuti prodotti nell'ambito delle attività di servizio se diversi dai rifiuti urbani;
+* g)	i rifiuti derivanti dall'attività di recupero e smaltimento di rifiuti, i fanghi prodotti dalla potabilizzazione e da altri trattamenti delle acque e dalla depurazione delle acque reflue, nonché i rifiuti da abbattimento di fumi, dalle fosse settiche e dalle reti fognarie;
+* h)	i rifiuti derivanti da attività sanitarie se diversi dai rifiuti urbani;
+* i)	i veicoli fuori uso.
 
 4.	Sono rifiuti pericolosi quelli che recano le caratteristiche di cui all’Allegato I della parte quarta del d.lgs. 152/2006.
 5.	Ai fini del presente Regolamento si intende per:
