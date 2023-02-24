@@ -203,33 +203,31 @@ c.	fabbricati danneggiati, non agibili, in ristrutturazione purché tale circost
 4.	In assenza di richiesta da parte del produttore dei rifiuti o di presentazione della necessaria documentazione, non potrà essere applicato alcun abbattimento.
 5.	Per fruire della riduzione prevista dai commi precedenti, gli interessati devono indicare nella denuncia originaria o di variazione il ramo di attività e la sua classificazione (industriale, artigianale, commerciale, di servizio, ecc.), nonché le superfici di formazione dei rifiuti o sostanze, indicandone l’uso e le tipologie di rifiuti prodotti (urbani, assimilati agli urbani, speciali, pericolosi, sostanze escluse dalla normativa sui rifiuti) distinti per codice CER:
 
-Art. 12 - Vincolo di solidarietà
+**Art. 12 - Vincolo di solidarietà**
 1. I soggetti passivi che detengono od occupano i locali o le aree, come individuate ai precedenti articoli 6 ed 8, sono tenuti al versamento del tributo con vincolo di solidarietà tra i componenti del nucleo familiare o tra coloro che usano in comune i suddetti locali o aree.
 
-
-Art. 13 - Composizione della tariffa
+**Art. 13 - Composizione della tariffa**
 1.	La Tassa è articolata nelle fasce di utenza domestica e non domestica.
 2.	I proventi derivanti dalla tassa devono consentire la copertura integrale dei costi di investimento e di gestione del servizio di raccolta e di pulizia stradale, nonché i costi del trattamento, recupero e/o smaltimento dei rifiuti.
 3.	La tassa è composta da una quota fissa, determinata in relazione alle componenti essenziali del costo del servizio di gestione dei rifiuti, e da una quota variabile, rapportata alle quantità di rifiuti conferita ed ai relativi costi di gestione in modo che sia assicurata la copertura integrale dei costi. 
 
-Art. 14 - Commisurazione della tariffa
+**Art. 14 - Commisurazione della tariffa**
 1.	Il tributo sui rifiuti e sui servizi è corrisposto sulla base della tassa commisurata all’anno solare, cui corrisponde un’autonoma obbligazione tributaria.
 2.	La tassa è commisurata alle quantità e qualità medie ordinarie di rifiuti prodotti per unità di superficie, in relazione agli usi e alla tipologia di attività svolte, sulla base dei criteri determinati con il regolamento di cui al decreto del Presidente della Repubblica 27 aprile 1999, n. 158 e l’art.14 della Direttiva Comunitaria  2009/98/CE e al metodo di calcolo dei costi del servizio rifiuti (MTR) di cui alle delibere n. 443/2019 e n. 238/2020 di ARERA.
 
-Art. 15 - Calcolo della tariffa per le utenze domestiche
-1.	La quota fissa della tariffa relativa alle utenze domestiche è rapportata alla superficie di ogni categoria di dette utenze, come individuate dal D.P.R. 27 aprile 1999, n. 158, sulla scorta del numero dei componenti il nucleo familiare, corretta con uno specifico coefficiente di adattamento.
+**Art. 15 - Calcolo della tariffa per le utenze domestiche**
+1.La quota fissa della tariffa relativa alle utenze domestiche è rapportata alla superficie di ogni categoria di dette utenze, come individuate dal D.P.R. 27 aprile 1999, n. 158, sulla scorta del numero dei componenti il nucleo familiare, corretta con uno specifico coefficiente di adattamento.
 2.	La quota variabile della tariffa è rapportata alla quantità totale di rifiuti prodotta dalle utenze domestiche, in relazione alle predette categorie di utenze, opportunamente corretta con specifici coefficienti.
 3.	I coefficienti utilizzati sono calcolati in base al metodo di calcolo dei costi del servizio rifiuti (MTR) di cui alle delibere n. 443/2019 e n. 238/2020 di ARERA.
 4.	Per nucleo familiare s’intende il numero complessivo dei residenti nell’abitazione anche se appartenenti a nuclei anagraficamente distinti.
 
-
-Art. 16 - Calcolo della tariffa per le utenze non domestiche
+**Art. 16 - Calcolo della tariffa per le utenze non domestiche**
 1.	Le utenze non domestiche sono suddivise in categorie omogenee, come da allegato A), sulla base della quantità potenziale di produzione del rifiuto connesso alla tipologia di attività.
 2.	Per le utenze non domestiche, la quota fissa della tariffa è determinata rapportando i costi alla superficie di ogni categoria, adattata in base a specifici coefficienti che misurano la potenzialità di produzione del rifiuto.
 3.	La quota variabile della tariffa delle utenze dei precedenti commi, è calcolata in rapporto alla quantità di rifiuti prodotta, attribuita alle diverse tipologie di attività, applicando un opportuno coefficiente di adattamento.
 4.	I coefficienti utilizzati sono calcolati in base al metodo di calcolo dei costi del servizio rifiuti (MTR) di cui alle delibere n. 443/2019 e n. 238/2020 di ARERA.
 
-Art. 17 - Determinazione della superficie imponibile
+**Art. 17 - Determinazione della superficie imponibile**
 1. Fino all’attuazione della revisione del Catasto, così come confermato dall’art. 1, comma 647 della Legge n. 147/2013, finalizzata all’allineamento tra i dati catastali relativi alle unità immobiliari a destinazione ordinaria e i dati riguardanti la toponomastica e la numerazione civica interna ed esterna del Comune, la superficie da assoggettare alla tassa è quella calpestabile.
 2.	Per le unità immobiliari già denunciate o accertate ai fini della TARES, la superficie imponibile è quella acquisita dal competente ufficio comunale.
 3.	Per le unità immobiliari a cui è stata attribuita la rendita presunta ai sensi dell’art. 19, comma 10, del D.L. n. 78/2010, convertito con modificazioni, dalla L. n. 122/2010 e s.m.i., la tassa è altresì calcolata a titolo di acconto, salvo successivo conguaglio.
@@ -238,29 +236,28 @@ Art. 17 - Determinazione della superficie imponibile
 6.	Per le aree scoperte soggetta a tassazione la superficie è misurata nella parte operativa, al netto delle eventuali costruzioni che vi insistono.
 7.	Nel calcolo della superficie totale, le frazioni di metro quadrato, fino a 0,50 metri quadrati, vengono arrotondate per difetto, quelle superiori vanno arrotondate per eccesso.
 
-Art. 18 - Aree di pertinenza di utenze non domestiche
+**Art. 18 - Aree di pertinenza di utenze non domestiche**
 1.	Al fine di individuare le aree imponibili di pertinenza di fabbricati detenuti da utenze non domestiche, si fa riferimento alla parte operativa.
 2.	Alle aree ed ai locali di pertinenza, viene applicata la tariffa vigente per la classe cui appartiene l’insediamento principale.
 
-Art. 19 - Tributo per le istituzioni scolastiche
+**Art. 19 - Tributo per le istituzioni scolastiche**
 1.	Per quanto concerne la determinazione del tributo relativamente alle istituzioni scolastiche, continuano ad essere applicate le disposizioni di cui all’art. 33-bis del D.L. 31 dicembre 2007, n. 248, convertito con modificazioni dalla Legge 28 febbraio 2008, n. 31.
 2.	Il costo relativo alla gestione dei rifiuti delle istituzioni scolastiche è sottratto dal costo che deve essere coperto con il tributo comunale sui rifiuti.
 3.	Il costo relativo al servizio di raccolta e smaltimento delle istituzioni scolastiche non coperto dal contributo di cui al comma 1, deve essere posto a carico del bilancio comunale.
 
 
-Art. 20 - Tributo provinciale
+**Art. 20 - Tributo provinciale**
 1.	Alla tassa sui servizi continua ad essere applicato il tributo provinciale per l’esercizio delle funzioni di tutela, protezione ed igiene ambientale di cui all’articolo 19 del D.Lgs. n. 504/1992.
 2.	Il tributo è applicato all’ammontare del tributo disciplinato da questo regolamento, nella misura deliberata dalla Provincia, fino ad un massimo del 5%.
 
-Art. 21 - Piano Finanziario
+**Art. 21 - Piano Finanziario**
 1.	I costi per la gestione del servizio relativo alla raccolta e smaltimento dei rifiuti, devono risultare dal piano finanziario redatto dal soggetto che svolge il servizio stesso, secondo i criteri e le modalità indicate dal D.P.R. 27 aprile 1999, n. 158 e del metodo di calcolo dei costi del servizio rifiuti (MTR).
 2.	Sulla base del piano finanziario sono determinate le tariffe che devono assicurare l’integrale copertura dei predetti costi di investimento e di esercizio.
 3.	L’ATERSIR (Agenzia Territoriale dell’Emilia Romagna per i servizi idrici e per i rifiuti) esamina e delibera il Piano Finanziario e lo trasmette all’Autorità di Regolazione per l’Energia Reti e Ambiente (ARERA) e al Comune.
 4.	Il Consiglio Comunale, entro il termine fissato dalla normativa vigente, deve approvare le tariffe TARI, determinate adottando i criteri indicati nei precedenti articoli e dal richiamato D.P.R. n. 158/99, indicando anche i costi sostenuti dall’ente che, per natura, rientrano tra i costi da considerare secondo il metodo normalizzato del predetto decreto.
 5.	Le tariffe sono attribuite alle diverse utenze suddivise in due macroclassi individuate dal decreto di cui al comma 1, in utenze domestiche ed utenze non domestiche.
 
-
-Art. 22 - Utenze domestiche
+**Art. 22 - Utenze domestiche**
 1.	Sono utenze domestiche quelle relative alle civili abitazioni ed alle pertinenze di queste, quali soffitte, solai, cantine, garage, ecc...
 2.	La tariffa delle utenze domestiche è rapportata sia alla superficie dei predetti fabbricati, sia al numero dei componenti del nucleo familiare, così come risultante dai registri anagrafici comunali.
 3.	Nel caso di abitazioni tenute a disposizione, in cui non siano presenti soggetti residenti, né sia stato indicato un numero di componenti al momento di presentazione della denuncia di inizio occupazione, il numero dei componenti del nucleo familiare è fissato nel numero di 2 (due).
@@ -269,25 +266,25 @@ Art. 22 - Utenze domestiche
       - il soggetto sia una persona anziana/disabile, collocata in casa di riposo.
 5. Qualora da risultanze di controlli, effettuati anche a fini diversi dall'applicazione della tariffa, emerga un numero superiore di occupanti all'alloggio, verrà applicata la tariffa corrispondente, con eventuale recupero del pregresso.
 
-Art. 23 - Classificazione delle utenze domestiche
-3.	Le utenze domestiche sono classificate in sei categorie, sulla base del numero dei componenti del nucleo familiare. In particolare l’ultima categoria include, in maniera residuale, sia i nuclei con sei componenti sia i nuclei con più di sei componenti.
+**Art. 23 - Classificazione delle utenze domestiche**
+1.	Le utenze domestiche sono classificate in sei categorie, sulla base del numero dei componenti del nucleo familiare. In particolare l’ultima categoria include, in maniera residuale, sia i nuclei con sei componenti sia i nuclei con più di sei componenti.
 
 Art. 24 - Utenze non domestiche
 1.	Le utenze non domestiche riguardano i soggetti che occupano locali e/o aree nell’esercizio di un’attività d’impresa, arti o professioni, incluse le comunità e le altre attività non aventi scopo.
 2.	La tariffa delle utenze non domestiche è rapportata alla superficie dei predetti immobili, applicando opportuni coefficienti che misurano la potenzialità di produrre rifiuto.
 
-Art. 25 - Classificazione delle utenze non domestiche
+**Art. 25 - Classificazione delle utenze non domestiche**
 1.	Le utenze non domestiche sono classificate in categorie omogenee sulla base della potenzialità di produrre rifiuto.
       In particolare vengono assunte le categorie previste dal D.P.R. n. 158/99, a cui vengono applicati i corrispondenti coefficienti che misurano la potenzialità di produrre rifiuto.
 2.	Per ulteriori categorie di utenze non previste dal D.P.R. n. 158/99 verranno assunti coefficienti acquisiti a seguito di monitoraggi eseguiti sul territorio.
 
-Art. 26 – Istanza per riduzioni, agevolazioni, esenzioni
+**Art. 26 – Istanza per riduzioni, agevolazioni, esenzioni**
 1.	Le riduzioni tariffarie, le agevolazioni e le esenzioni si applicano a seguito di presentazione di istanza da redigersi sull’apposito modulo messo a disposizione dal Comune e della documentazione o autocertificazione relative al possesso dei requisiti richiesti per il riconoscimento delle stesse.
 2.	L’applicazione della riduzione, agevolazione o esenzione avverrà a partire dalla data di presentazione dell’istanza e solo a seguito dell’avvenuta valutazione della documentazione necessaria da parte dell’ufficio competente.
 3.	 Il Comune può, in qualsiasi tempo, eseguire gli opportuni accertamenti al fine di verificare l'effettiva sussistenza delle condizioni richieste per le esenzioni. 
 4.	L’agevolazione, una volta concessa, compete anche per gli anni successivi, senza bisogno di una nuova domanda, fino a che persistono le condizioni richieste. Quando queste vengono a cessare, la tassazione decorrerà dal momento in cui sono venute a meno le suddette condizioni. 
 
-Art. 27 - Criteri per le riduzioni
+**Art. 27 - Criteri per le riduzioni**
 1.	Le riduzioni tariffarie sono determinate in relazione ai seguenti criteri:
 a.	all'uso stagionale e/o temporaneo da parte di chi detiene abitazioni secondarie o di chi risiede all'estero;
 b.	alla detenzione di locali, diversi dalle abitazioni ed aree scoperte, adibiti ad uso stagionale o ad uso non continuativo, ma ricorrente, risultante da licenza o autorizzazione rilasciata dai competenti organi per l'esercizio dell'attività o da altra documentazione atta a comprovare tale condizione.
@@ -299,16 +296,13 @@ d.	30% fabbricati rurali ad uso abitativo, utilizzati come abitazione principale
 e.	Ridotta di due terzi a partire dall’anno 2015 una sola unità immobiliare  adibita ad abitazione principale, posseduta dai cittadini italiani non residenti nel territorio dello Stato ed  iscritti nell’Anagrafe degli italiani residenti all’estero (AIRE) del Comune di San Clemente già pensionati nei rispettivi paesi di residenza, a titolo di proprietà o di usufrutto in Italia, a condizione che non risulti locata o data in comodato d’uso. (L. n. 80 del 23/05/2014);
 f.	A decorrere dal 01/01/2021 ai sensi dell’art. 1 comma 48 L. 30 dicembre 2020 n. 178 per una sola unità immobiliare  ad uso abitativo, non locata o data in comodato d’uso, posseduta in Italia  da soggetti non residenti nel territorio dello Stato che siano titolari di pensione maturata in regime di convenzione internazionale con l’Italia, la TARI è dovuta in misura ridotta di due terzi.
 
-
-
-Art. 28 - Criteri per le agevolazioni a carico del piano economico finanziario
+**Art. 28 - Criteri per le agevolazioni a carico del piano economico finanziario**
 1. Le agevolazioni tariffarie sono applicate in relazione ai seguenti criteri:
 a.	al diverso impatto sul costo di organizzazione e di gestione del servizio di smaltimento dei rifiuti connesso all'evolversi dell'incidenza di tali situazioni;
 b.	alla quantità di rifiuti urbani che le utenze domestiche dimostrano di aver conferito all’isola ecologica/centro ambiente ubicato nel territorio comunale;
 c.	alla quantità di rifiuti urbani che le utenze non domestiche dimostrano di aver avviato al riciclo.
 
-
-Art. 29 - Criteri per particolari riduzioni ed esenzioni a carico del bilancio comunale
+**Art. 29 - Criteri per particolari riduzioni ed esenzioni a carico del bilancio comunale**
 1.	Il Consiglio comunale può deliberare ulteriori riduzioni ed esenzioni. Tali agevolazioni sono iscritte in bilancio come autorizzazioni di spesa e la relativa copertura e' assicurata da risorse diverse dai proventi del tributo.
 2.	Le riduzioni tariffarie sono applicate in relazione ai seguenti criteri:
 a.	 a motivi di solidarietà nei confronti delle famiglie (utenze domestiche) che versano in condizioni di grave disagio sociale ed economico;
@@ -322,61 +316,62 @@ d.	individuazione di un tetto massimo di spesa connesso alle agevolazioni;
 e.	determinazione della disciplina transitoria mediante fissazione di un termine entro cui i soggetti che non usufruiscono più dell’agevolazione devono presentare apposita denuncia di variazione per il pagamento della tassa;
 5.	Le agevolazioni di cui al comma 3 sono concesse annualmente su domanda dell’ interessato debitamente documentata in ordine al possesso dei requisiti richiesti e secondo le modalità di cui all’art.26.In caso di accertamento d’ ufficio per omissione della predetta denuncia, saranno applicate le sanzioni di cui all’ art. 76 del d. Lgs. 507/1993.
 
-
-Art 29 bis – Interventi a favore di categorie di utenze non domestiche penalizzate dalla situazione emergenziale determinata dalla epidemia Covid-19
+**Art 29 bis – Interventi a favore di categorie di utenze non domestiche penalizzate dalla situazione emergenziale determinata dalla epidemia Covid-19**
 1. Al fine di supportare le utenze non domestiche regolarmente iscritte in tassa, in particolare le imprese che per l’emergenza sanitaria hanno dovuto sospendere temporaneamente o ridurre l’attività lavorativa in attuazione dei provvedimenti governativi adottati per il contenimento della diffusione del coronavirus COVID-19, è concessa, per la sola annualità di competenza 2021, una riduzione tariffaria ai sensi dell’ art.1 comma 660 della legge n. 147 del 2013, come previsto dall’art. 6 del D.L. n. 73 del 25/05/2021. 
-
 2.	Spetta alla Giunta Comunale stabilire la specifica disciplina di cui al presente articolo, con particolare riferimento alla copertura ed alla modalità di concessione, applicando eventualmente criteri omogenei per fattispecie, al fine di semplificare la quantificazione delle agevolazioni. 
 
+**Art. 30 - Casi di esenzione**
 
-Art. 30 - Casi di esenzione
-Ai sensi dell’art.1 comma 660 della L. n.147/2013, vengono introdotte le seguenti esenzioni:
-a.	esenzione per le abitazioni, consistenti in non più di un’unità immobiliare, occupate da persone ultrasessantacinquenni che conducono direttamente tali locali, appartenenti ad un nucleo familiare composto unicamente da persone ultrasessantacinquenni e/o con invalidità non inferiore al 67%, riconosciuta dagli organi competenti e tale da precludere un utile inserimento lavorativo, aventi un ISEE , o altro indicatore vigente, che non deve superare euro 8.500,00, proprietari del solo immobile utilizzato come abitazione principale a cui sia annessa eventuale pertinenza (una sola) tenendo conto che l’eventuale presenza di badante o di familiare che dovesse accudire un altro familiare con invalidità di almeno il 67%, non deve essere computata nella determinazione dei componenti il nucleo familiare. Si precisa che per nucleo familiare si intende quello così come esistente presso l’anagrafe della popolazione residente.
-b.	esenzione per le abitazioni occupate da persone, sole o riunite in nuclei familiari, nullatenenti ed in condizioni di accertata indigenza assistite in modo permanente dal Comune, limitatamente ai locali direttamente abitati e con la esclusione di quelli sub¬affittati;
-c.	esenzione totale per locali ed aree delle associazioni che perseguono finalità di alto rilievo sociale o storico-culturale e per le quali il Comune si assume interamente le spese di gestione;
+1. Ai sensi dell’art.1 comma 660 della L. n.147/2013, vengono introdotte le seguenti esenzioni:
+
+- a.	esenzione per le abitazioni, consistenti in non più di un’unità immobiliare, occupate da persone ultrasessantacinquenni che conducono direttamente tali locali, appartenenti ad un nucleo familiare composto unicamente da persone ultrasessantacinquenni e/o con invalidità non inferiore al 67%, riconosciuta dagli organi competenti e tale da precludere un utile inserimento lavorativo, aventi un ISEE , o altro indicatore vigente, che non deve superare euro 8.500,00, proprietari del solo immobile utilizzato come abitazione principale a cui sia annessa eventuale pertinenza (una sola) tenendo conto che l’eventuale presenza di badante o di familiare che dovesse accudire un altro familiare con invalidità di almeno il 67%, non deve essere computata nella determinazione dei componenti il nucleo familiare. Si precisa che per nucleo familiare si intende quello così come esistente presso l’anagrafe della popolazione residente.
+- b.	esenzione per le abitazioni occupate da persone, sole o riunite in nuclei familiari, nullatenenti ed in condizioni di accertata indigenza assistite in modo permanente dal Comune, limitatamente ai locali direttamente abitati e con la esclusione di quelli sub¬affittati;
+- c.	esenzione totale per locali ed aree delle associazioni che perseguono finalità di alto rilievo sociale o storico-culturale e per le quali il Comune si assume interamente le spese di gestione;
 2.	L’elenco di tutti coloro che faranno richiesta di tale esenzione verrà pubblicato ed affisso all'albo pretorio del Comune, in modo tale, comunque, da mantenere l’anonimato;
 3.	L’esenzione è concessa su domanda dell’interessato e seguendo i criteri di cui all’art.26.
 4.	Le esenzioni di cui al presente articolo sono iscritte in bilancio come autorizzazioni di spesa e la relativa copertura è assicurata da risorse diverse dai proventi del tributo relativo all'esercizio cui si riferisce l'iscrizione predetta.
 
-Art 31–Agevolazioni per l’avvio al riciclo di rifiuti urbani delle utenze non domestiche
+**Art 31–Agevolazioni per l’avvio al riciclo di rifiuti urbani delle utenze non domestiche**
 1.	E’ fatta salva la facoltà delle utenze non domestiche di avviare a riciclo i propri rifiuti urbani in base a quanto previsto dall’articolo 1, comma 649, secondo periodo, della legge 147 del 2013
 2.	La riduzione del comma precedente viene calcolata mediante un coefficiente di riduzione proporzionale alle quantità di rifiuti urbano che il produttore dimostri di aver avviato al riciclo..
 3.	La proporzionalità viene determinata dal rapporto tra il quantitativo di rifiuti urbani avviati al riciclo nel corso dell’anno solare e la produzione complessiva di rifiuti urbani prodotti dall’utenza nel corso del medesimo anno.
 4.	Il quantitativo dei rifiuti avviatati a riciclo  viene valorizzato in funzione della tipologia del rifiuto urbano, in base alla seguente tabella:
 
-
-FRAZIONE RIFIUTO	VALORIZZAZIONE %
-CARTA/CARTONE	- VETRO	-PLASTICA - MULTIMATERIALE-FERRO	
-
-10%	
-LEGNO - ORGANICO - POTATURE	100%	
+|  Tipo di rifiuti | percentuale riduzioni |
+| --------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| FRAZIONE RIFIUTO	VALORIZZAZIONE % CARTA/CARTONE	- VETRO	-PLASTICA - MULTIMATERIALE-FERRO | 10% |	
+| LEGNO - ORGANICO - POTATURE | 100% |	
 
 5.	Al fine del calcolo della precedente riduzione, i titolari delle utenze non domestiche sono tenuti a presentare entro 60 giorni dell’anno successivo apposita dichiarazione attestante la quantità di rifiuti avviati al riciclo nel corso dell’anno solare precedente ed, in via sostitutiva, ai sensi del DPR 445/2000, la quantità complessiva di rifiuti urbani prodotti dall’unità locale. A tale dichiarazione dovranno altresì allegare copia di tutti i formulari di trasporto, di cui all’art. 193 del D.Lgs 152/2006, relativi ai rifiuti riciclati, debitamente controfirmati dal responsabile dell’impianto di destinazione, o adeguata documentazione comprovante la quantità dei rifiuti urbani avviati al riciclo, in conformità delle normative vigenti. 
-5bis La documentazione attestante le quantità di rifiuti effettivamente avviate a riciclo devono contenere le seguenti informazioni:
-a)	dati identificativi dell’utente, tra i quali: denominazione societaria o dell’ente titolare dell’utenza, partita IVA o codice fiscale per i soggetti privi di partita IVA codice utente;
-b)	il recapito postale e l’indirizzo di posta elettronica certificata dell’utente;
-c)	i dati identificativi dell’utenza: codice utenza, indirizzo e dati catastali dell’immobile, tipologia di attività svolta;
-d)	dati sui quantitativi di rifiuti complessivamente prodotti, suddivisi per frazione merceologica;
-e)	dati sui quantitativi di rifiuti, suddivisi per frazione merceologica, effettivamente avviati a riciclo al di fuori del servizio pubblico con riferimento all’anno precedente, quali risultanti dall’attestazione rilasciata dal soggetto o dai soggetti che effettuano l’attività di riciclo dei rifiuti stessi, che deve essere allegata all’istanza;
-f)	dati identificativi dell’impianto o degli impianti di riciclo cui tali rifiuti sono stati conferiti tali rifiuti (denominazione o ragione sociale, partita IVA o codice fiscale, localizzazione, attività svolta).
+
+5bis. La documentazione attestante le quantità di rifiuti effettivamente avviate a riciclo devono contenere le seguenti informazioni:
+- a)	dati identificativi dell’utente, tra i quali: denominazione societaria o dell’ente titolare dell’utenza, partita IVA o codice fiscale per i soggetti privi di partita IVA codice utente;
+- b)	il recapito postale e l’indirizzo di posta elettronica certificata dell’utente;
+- c)	i dati identificativi dell’utenza: codice utenza, indirizzo e dati catastali dell’immobile, tipologia di attività svolta;
+- d)	dati sui quantitativi di rifiuti complessivamente prodotti, suddivisi per frazione merceologica;
+- e)	dati sui quantitativi di rifiuti, suddivisi per frazione merceologica, effettivamente avviati a riciclo al di fuori del servizio pubblico con riferimento all’anno precedente, quali risultanti dall’attestazione rilasciata dal soggetto o dai soggetti che effettuano l’attività di riciclo dei rifiuti stessi, che deve essere allegata all’istanza;
+- f)	dati identificativi dell’impianto o degli impianti di riciclo cui tali rifiuti sono stati conferiti tali rifiuti (denominazione o ragione sociale, partita IVA o codice fiscale, localizzazione, attività svolta).
+
 E’ facoltà del Comune, comunque, richiedere ai predetti soggetti copia del modello unico di denuncia (MUD) per l’anno di riferimento o altra documentazione equivalente. Qualora si dovessero rilevare delle difformità tra quanto dichiarato e quanto risultante nel MUD/altra documentazione, tali da comportare una minore riduzione spettante, si provvederà a recuperare la quota di riduzione indebitamente applicata. Se l’interessato non è in grado di indicare la quantità complessiva di rifiuti prodotti o la stessa non viene dichiarata, per il calcolo dell’incentivo si considera come quantità totale di rifiuti prodotti il risultato della moltiplicazione tra la superficie assoggettata al tributo dell’attività ed il coefficiente di produzione annuo per l’attribuzione della quota variabile della tariffa (coefficiente Kd) della categoria corrispondente, indicato nel provvedimento di determinazione annuale delle tariffe.
-6.	In ogni caso l’ammontare della riduzione non può essere superiore al 50% della quota variabile della tariffa.
-7.	Le agevolazioni indicate nei precedenti commi verranno calcolate a consultivo con compensazione con il tributo dovuto per l’anno successivo o rimborso dell’eventuale eccedenza pagata nel caso di in capienza.
 
-Art 32– Agevolazioni per l’avvio al recupero di rifiuti urbani delle utenze non domestiche
-1	Le utenze non domestiche possono conferire al di fuori del servizio pubblico i propri rifiuti urbani, previa dimostrazione di averli avviati a recupero mediante attestazione rilasciata dal soggetto che effettua l’attività di recupero dei rifiuti stessi.
+6. In ogni caso l’ammontare della riduzione non può essere superiore al 50% della quota variabile della tariffa.
+
+7. Le agevolazioni indicate nei precedenti commi verranno calcolate a consultivo con compensazione con il tributo dovuto per l’anno successivo o rimborso dell’eventuale eccedenza pagata nel caso di in capienza.
+
+**Art 32– Agevolazioni per l’avvio al recupero di rifiuti urbani delle utenze non domestiche**
+1.	Le utenze non domestiche possono conferire al di fuori del servizio pubblico i propri rifiuti urbani, previa dimostrazione di averli avviati a recupero mediante attestazione rilasciata dal soggetto che effettua l’attività di recupero dei rifiuti stessi.
 1bis La documentazione attestante le quantità di rifiuti effettivamente avviate a recupero devono contenere le seguenti informazioni:
-a)	dati identificativi dell’utente, tra i quali: denominazione societaria o dell’ente titolare dell’utenza, partita IVA o codice fiscale per i soggetti privi di partita IVA codice utente;
-b)	il recapito postale e l’indirizzo di posta elettronica certificata dell’utente;
-c)	i dati identificativi dell’utenza: codice utenza, indirizzo e dati catastali dell’immobile, tipologia di attività svolta;
-d)	dati sui quantitativi di rifiuti complessivamente prodotti, suddivisi per frazione merceologica;
-e)	dati sui quantitativi di rifiuti, suddivisi per frazione merceologica, effettivamente avviati a recupero al di fuori del servizio pubblico con riferimento all’anno precedente, quali risultanti dall’attestazione rilasciata dal soggetto o dai soggetti che effettuano l’attività di recupero dei rifiuti stessi, che deve essere allegata all’istanza;
-f)	dati identificativi dell’impianto o degli impianti di recupero cui tali rifiuti sono stati conferiti tali rifiuti (denominazione o ragione sociale, partita IVA o codice fiscale, localizzazione, attività svolta).
+- a)	dati identificativi dell’utente, tra i quali: denominazione societaria o dell’ente titolare dell’utenza, partita IVA o codice fiscale per i soggetti privi di partita IVA codice utente;
+- b)	il recapito postale e l’indirizzo di posta elettronica certificata dell’utente;
+- c)	i dati identificativi dell’utenza: codice utenza, indirizzo e dati catastali dell’immobile, tipologia di attività svolta;
+- d)	dati sui quantitativi di rifiuti complessivamente prodotti, suddivisi per frazione merceologica;
+- e)	dati sui quantitativi di rifiuti, suddivisi per frazione merceologica, effettivamente avviati a recupero al di fuori del servizio pubblico con riferimento all’anno precedente, quali risultanti dall’attestazione rilasciata dal soggetto o dai soggetti che effettuano l’attività di recupero dei rifiuti stessi, che deve essere allegata all’istanza;
+- f)	dati identificativi dell’impianto o degli impianti di recupero cui tali rifiuti sono stati conferiti tali rifiuti (denominazione o ragione sociale, partita IVA o codice fiscale, localizzazione, attività svolta).
 
-2	Le utenze non domestiche che provvedono in autonomia, direttamente o tramite soggetti abilitati diversi dal gestore del servizio pubblico e nel rispetto delle vigenti disposizioni normative, al recupero del totale dei rifiuti urbani prodotti, sono escluse dalla corresponsione della parte variabile della tassa riferita alle specifiche superfici oggetto di tassazione e, per tali superfici, sono tenuti alla corresponsione della sola parte fissa.
-3	Per le utenze non domestiche di cui al comma 2 la scelta di avvalersi di operatori privati diversi dal gestore del servizio pubblico deve essere effettuata per un periodo non inferiore a cinque anni, salva la possibilità per il gestore del servizio pubblico, dietro richiesta dell'utenza non domestica, di riprendere l'erogazione del servizio anche prima della scadenza quinquennale.
+2.	Le utenze non domestiche che provvedono in autonomia, direttamente o tramite soggetti abilitati diversi dal gestore del servizio pubblico e nel rispetto delle vigenti disposizioni normative, al recupero del totale dei rifiuti urbani prodotti, sono escluse dalla corresponsione della parte variabile della tassa riferita alle specifiche superfici oggetto di tassazione e, per tali superfici, sono tenuti alla corresponsione della sola parte fissa.
+3.	Per le utenze non domestiche di cui al comma 2 la scelta di avvalersi di operatori privati diversi dal gestore del servizio pubblico deve essere effettuata per un periodo non inferiore a cinque anni, salva la possibilità per il gestore del servizio pubblico, dietro richiesta dell'utenza non domestica, di riprendere l'erogazione del servizio anche prima della scadenza quinquennale.
 
-Art. 33 – Obblighi di comunicazione per l’uscita e il reintegro dal/nel servizio pubblico di raccolta
+**Art. 33 – Obblighi di comunicazione per l’uscita e il reintegro nel servizio pubblico di raccolta**
 1.	Per consentire la corretta programmazione dei servizi pubblici, le utenze non domestiche che intendono avvalersi della facoltà di cui all’articolo 31 comma 1 del presente Regolamento e conferire a recupero al di fuori del servizio pubblico la totalità dei propri rifiuti urbani devono darne comunicazione preventiva al Comune via PEC indirizzata all’Ufficio tributi utilizzando il modello predisposto dallo stesso, entro il 30 giugno di ciascun anno , con effetti a decorrere dal 1° gennaio dell’anno successivo. Limitatamente all’anno 2021 la comunicazione dovrà essere presentata entro il 31 maggio, con effetti a decorrere dal 1°gennaio 2022.
 2.	Per comunicare la scelta di cui al comma precedente, l’utente è tenuto alla presentazione di una comunicazione redatta secondo il modello riportato in Allegato al presente Regolamento , sottoscritta dal legale rappresentante dell’impresa/attività, nella quale devono essere indicati: l’ubicazione degli immobili di riferimento e le loro superfici tassabili, il tipo di attività svolta in via prevalente con il relativo codice ATECO, i quantitativi stimati dei rifiuti che saranno conferiti al di fuori del servizio pubblico, da avviare a recupero, distinti per codice EER (Elenco Europeo dei Rifiuti), la durata del periodo, non inferiore a cinque anni, per la quale si intende esercitare tale opzione, l’impegno a restituire le attrezzature pubbliche in uso quali, cassoni e containers, il/i soggetto/i autorizzato/i con i quali è stato stipulato apposito contratto. Alla comunicazione deve essere allegata idonea documentazione, anche nella modalità dell’autocertificazione, comprovante l’esistenza di un accordo contrattuale con il/i soggetto/i che effettua/no l’attività di recupero dei rifiuti (impianti di primo conferimento che effettuano il recupero rifiuti). Tale comunicazione è valida anche quale denuncia di variazione ai fini della TARI.
 3.	La mancata presentazione della comunicazione di recupero autonomo di cui al comma 2, entro il termine del 31 maggio per il solo anno 2021, o entro il termine del 30 giugno a decorrere dal 2022, è da intendersi quale scelta dell’utenza non domestica di avvalersi del servizio pubblico .
@@ -406,7 +401,8 @@ Art. 33 – Obblighi di comunicazione per l’uscita e il reintegro dal/nel serv
 
 2.	In ogni caso l’ammontare della riduzione non può essere superiore al 50% della quota variabile della tariffa.
 3.	Le agevolazioni indicate nei precedenti commi saranno calcolate a consuntivo con compensazione con il tributo dovuto per l’anno successivo.
-Art. 35 - Tributo giornaliero
+
+**Art. 35 - Tributo giornaliero**
 1.	Il tributo giornaliero è dovuto dai soggetti che occupano o detengono temporaneamente, con o senza autorizzazione, locali od aree pubbliche, di uso pubblico o aree gravate da servitù di pubblico passaggio, per la copertura dei costi dei servizi relativi alla gestione dei rifiuti urbani prodotti da tali soggetti.
 2.	L’occupazione o detenzione è considerata temporanea quando si protrae per periodo inferiore a 183 giorni nel corso dello stesso anno solare.
 3.	La tariffa del tributo giornaliero è determinata in rapporto ai metri quadrati occupati e al numero di giorni e loro frazioni di durata dell’occupazione.
@@ -414,10 +410,10 @@ Art. 35 - Tributo giornaliero
 5.	L’obbligo di dichiarazione è assolto con il pagamento del tributo da effettuarsi con le modalità e nei termini previsti per il canone per l’occupazione di spazi ed aree pubbliche .
 6.	Al tributo giornaliero si applicano le disposizioni del tributo annuale in quanto compatibili.
 
-Art. 36 - Applicazione del tributo giornaliero in caso di occupazioni abusive
-4.	In caso di occupazione abusiva, in occasione della contestazione per violazione alla tassa/canone per l’occupazione di suolo pubblico, il tributo giornaliero è recuperato contestualmente a sanzioni, interessi ed accessori, applicando le norme in materia di accertamento, contenzioso e sanzioni, previste per il tributo annuale, in quanto compatibili.
+**Art. 36 - Applicazione del tributo giornaliero in caso di occupazioni abusive**
+1. In caso di occupazione abusiva, in occasione della contestazione per violazione alla tassa/canone per l’occupazione di suolo pubblico, il tributo giornaliero è recuperato contestualmente a sanzioni, interessi ed accessori, applicando le norme in materia di accertamento, contenzioso e sanzioni, previste per il tributo annuale, in quanto compatibili.
 
-Art. 37 - Dichiarazione di detenzione o possesso, di variazione e di cessazione
+**Art. 37 - Dichiarazione di detenzione o possesso, di variazione e di cessazione**
 1.	I soggetti di cui all’articolo 5, sono tenuti a presentare la dichiarazione di inizio occupazione o possesso dei locali ed aree tassabili siti nel territorio del Comune, entro 60 giorni dalla data in cui l’occupazione o la detenzione o il possesso degli immobili ha avuto inizio o sono intervenute variazioni rilevanti ai fini della determinazione della tassa sui rifiuti, utilizzando il modello messo a disposizione dal Comune stesso.
 2.	La dichiarazione può essere consegnata direttamente allo sportello comunale, a mezzo posta elettronica, pec, posta raccomandata a/r o mediante altra modalità telematica che potrà essere attivata dall’ufficio. La denuncia si intende consegnata all’atto del ricevimento da parte del Comune nel caso di consegna diretta, alla data di spedizione risultante dalla ricevuta prodotta dalla modalità di invio adottata, negli altri casi.
 3.	La dichiarazione ha effetto anche per gli anni successivi sempre che non si verifichino modificazioni dei dati ed elementi dichiarati cui consegua un diverso ammontare della tassa dovuta.
@@ -427,7 +423,7 @@ Art. 37 - Dichiarazione di detenzione o possesso, di variazione e di cessazione
 7.	Nel caso di decesso del contribuente, i familiari conviventi o eredi degli stessi dovranno provvedere alla presentazione della dichiarazione di cessazione entro la fine dell’anno in cui si è verificato il decesso o entro il termine di cui al precedente comma 4, se più favorevole. In mancanza, l’Ufficio può procedere alla variazione dell’intestatario della tassa, inserendo come obbligato principale la persona o una delle persone conviventi con il soggetto deceduto, ovvero l’erede o uno degli eredi per i quali per i quali vi siano elementi sufficienti a far presumere l’effettiva disponibilità dell’immobile, dandone comunicazione all’interessato; in ogni caso, non è preclusa l’attività accertativa dell’Ente. 
 
 
-Art. 38 - Termini per il pagamento del tributo
+**Art. 38 - Termini per il pagamento del tributo**
 1.	I soggetti passivi, così come definiti all’articolo 5, devono eseguire il pagamento della tassa dovuta entro le seguenti scadenze:
 -	1° rata entro il 30 settembre 31 luglio dell’anno di competenza,
 -	2° rata entro il 31 ottobre 30 settembre dell’anno di competenza, 
@@ -439,51 +435,50 @@ Art. 38 - Termini per il pagamento del tributo
 5.	In caso di cessazione, nel corso dell'anno, dell'occupazione o possesso dei locali ed aree, deve essere presentata apposita denuncia di cessazione che, debitamente accertata, da diritto all'abbuono del tributo a decorrere dal 1^ giorno successivo a quello in cui la denuncia stessa è stata presentata.
 6.	Si prevede la possibilità, mediante delibera di Giunta comunale, di differire i termini di versamento del tributo in situazioni di eccezionale gravità riguardante tutti o determinate categorie di contribuenti.
 
-Art. 39 - Versamento del tributo
+**Art. 39 - Versamento del tributo**
 1.	Il tributo è versato interamente al Comune, unitamente al tributo provinciale.
 2.	La tassa viene corrisposta a titolo di acconto, salvo conguaglio successivo.
 3.	Per la riscossione del tributo provinciale il Comune trattiene il compenso previsto dal richiamato articolo 19 del D.Lgs. n. 504/92.
 
-Art. 40 - Dilazioni di pagamento e rateazioni
+**Art. 40 - Dilazioni di pagamento e rateazioni**
 1.	Il funzionario responsabile può autorizzare dilazioni e/o rateazione su istanza debitamente motivata da parte del  soggetto passivo, in caso di riscossione coattiva.
 2.	La dilazione/rateazione può essere concessa alle condizioni previste dal vigente regolamento comunale per la gestione delle entrate.
-Art. 41 - Rimborsi e arrotondamenti
+
+**Art. 41 - Rimborsi e arrotondamenti**
 1. Il competente ufficio provvede a rimborsare quanto indebitamente introitato secondo le disposizioni di cui all’articolo 1, comma 164, della Legge 296/2006, sia a seguito di istanza del contribuente, sia qualora sia emerso un introito non dovuto od un versamento in misura superiore al dovuto.
 2. Le somme dovute e quelle da rimborsare devono essere arrotondate ai sensi dell’articolo 1, comma 166 della predetta Legge 296/2006.
 
-Art. 42 - Importi minimi e altre disposizioni
+**Art. 42 - Importi minimi e altre disposizioni**
 1.	L’importo minimo da versare e per il quale si provvede a effettuare il rimborso è quello indicato nel vigente regolamento per la gestione delle entrate.
 2.	Vengono applicate le disposizioni dettate dall’articolo 1, commi da 161 a 169 della Legge 296/2006, in quanto compatibili.
 3.	Non sono eseguiti i rimborsi di importo annuale dovuto inferiore al medesimo limite di cui al comma precedente, relativamente alla riscossione coattiva.
 4.	Non si procede alla notifica degli avvisi di accertamento secondo quanto indicato all’art. 25 comma 1 del vigente regolamento per la gestione delle entrate (limite minimo euro 12,00).
 
-Art. 43 - Funzionario responsabile
+**Art. 43 - Funzionario responsabile**
 1. la Giunta Comunale nomina il funzionario responsabile della tassa rifiuti (TARI).
 2. Al funzionario responsabile sono attribuiti i poteri per l’esercizio di ogni attività organizzativa e gestionale, compreso quello di sottoscrivere i provvedimenti relativi a detta attività, nonché la rappresentanza in giudizio per le controversie relative al tributo stesso.
 
-Art. 44 - Accertamenti
+**Art. 44 - Accertamenti**
 1.	L’ufficio competente provvede a svolgere le attività di controllo per la corretta applicazione della tassa, sia per la sussistenza dei requisiti per beneficiare di riduzioni, agevolazioni ed esenzioni.
 2.	Al fine delle predette verifiche vengono seguite le disposizioni vigenti in materia, nel rispetto delle norme dettate dalla Legge n. 212/2000 avente ad oggetto “Statuto dei diritti del contribuente”.
 3.	Nell’ambito dell’attività di accertamento, il Comune, per le unità immobiliari a destinazione ordinaria iscritte o iscrivibili nel catasto edilizio urbano, può considerare come superficie assoggettabile al tributo quella pari all’80 per cento della superficie catastale determinata secondo i criteri stabiliti dal regolamento di cui al decreto del Presidente della Repubblica 23 marzo 1998, n. 138.
 
-Art. 45 - Sanzioni
-3.	In caso di accertamento di violazione alle disposizioni che disciplinano la tassa sui rifiuti ed al presente regolamento, verranno applicate le sanzioni previste dai D.Lgs. 18.12.1997, nn. 471, 472 e 473, in materia di sanzioni amministrative tributarie e successive modificazioni ed integrazioni e L. n. 160 del 27/12/2019.
+**Art. 45 - Sanzioni**
+1. In caso di accertamento di violazione alle disposizioni che disciplinano la tassa sui rifiuti ed al presente regolamento, verranno applicate le sanzioni previste dai D.Lgs. 18.12.1997, nn. 471, 472 e 473, in materia di sanzioni amministrative tributarie e successive modificazioni ed integrazioni e L. n. 160 del 27/12/2019.
 
-Art. 46 - Contenzioso
+**Art. 46 - Contenzioso**
 1.	Nella gestione del contenzioso vengono applicate le disposizioni vigenti in materia.
 2.	Al fine di ridurre il contenzioso verranno adottati tutti gli strumenti deflattivi del contenzioso consentiti dalla normativa vigente.
 
-Art. 47 - Trattamento dei dati personali
+**Art. 47 - Trattamento dei dati personali**
 1. I dati acquisiti al fine dell’applicazione del tributo disciplinato dal presente regolamento sono trattati nel rispetto dal D.Lgs. 196/2003.
 
-Art. 48 - Disposizioni finali e transitorie
+**Art. 48 - Disposizioni finali e transitorie**
 1.	Il presente regolamento abroga e sostituisce le norme regolamentari precedentemente deliberate in materia di tassazione per la raccolta e lo smaltimento di rifiuti urbani.
 2.	Per l’applicazione della nuova tassa sui rifiuti (TARI) si considerano valide le dichiarazioni già presentate in relazione al precedente prelievo per la raccolta e smaltimento dei rifiuti urbani.
 
 
-
- 
-ALLEGATO A
+**ALLEGATO A**
 CATEGORIE DI UTENZE NON DOMESTICHE.
 LE UTENZE NON DOMESTICHE SONO SUDDIVISE NELLE SEGUENTI CATEGORIE.
 Comuni con più di 5.000 abitanti
