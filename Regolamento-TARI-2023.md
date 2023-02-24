@@ -4,7 +4,7 @@
 
 
 ## REGOLAMENTO COMUNALE PAR LA DISCIPLINA DELLA TASSA RIFIUTI (TA.RI.) ## 
-Versione anno 2022
+Versione anno 2023
 
 
 Approvato con delibera di Consiglio Comunale n. 37 del 28/09/2020 e modificato con delibera di CC n 22 del 29/06/2021 e n. 26 del 30/05/2022
