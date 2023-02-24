@@ -131,8 +131,6 @@ c)	esercitare la potestà regolamentare attribuita ai Comuni ai sensi dell’art
 - w)	«preparazione per il riutilizzo», ai sensi dell’art. 183, c. 1, lett. q) del decreto legislativo 3 aprile 2006, n. 152, le operazioni di controllo, pulizia, smontaggio e riparazione attraverso cui prodotti o componenti di prodotti diventati rifiuti sono preparati in modo da poter essere reimpiegati senza altro pretrattamento.
 - x)	«recupero», ai sensi dell’art. 183, c. 1, lett. t) del decreto legislativo 3 aprile 2006, n. 152, qualsiasi operazione il cui principale risultato sia di permettere ai rifiuti di svolgere un ruolo utile, sostituendo altri materiali che sarebbero stati altrimenti utilizzati per assolvere una particolare funzione o di prepararli ad assolvere tale funzione, all'interno dell'impianto o nell'economia in generale.
 
-
-
 **Art. 4 - Soggetto attivo**
 1. Ai sensi della normativa richiamata, il Comune è soggetto attivo dell’obbligazione tributaria disciplinata dal presente regolamento, con riferimento a tutti gli immobili la cui superficie insiste, interamente o prevalentemente, sul territorio comunale.
 
@@ -389,21 +387,22 @@ Art. 33 – Obblighi di comunicazione per l’uscita e il reintegro dal/nel serv
 8.	Il Comune ha facoltà di effettuare controlli ed ispezioni al fine di verificare la coerenza e la correttezza delle rendicontazioni presentate rispetto all’attività svolta ed alle quantità prodotte . Nel caso di comportamenti non corretti o dichiarazioni mendaci, gli stessi saranno sanzionati, salvo più gravi violazioni, attraverso il recupero della TARI dovuta e l’applicazione della disciplina prevista per le dichiarazioni infedeli.
 9.	La parte variabile viene esclusa in via previsionale ed è soggetta a conguaglio. Nel caso di omessa presentazione della rendicontazione dell’attività di recupero svolta nei termini previsti dal presente regolamento, ovvero quando non si dimostri il totale recupero dei rifiuti prodotti in caso di fuoriuscita dal servizio pubblico, il Comune provvede al recupero della quota variabile della tariffa indebitamente esclusa dalla tassazione.
 
-Art 34 - Riduzioni per raccolta differenziata delle utenze domestiche
+**Art 34 - Riduzioni per raccolta differenziata delle utenze domestiche**
 1. Per le utenze domestiche che conferiscono direttamente il rifiuto recuperabile in maniera differenziata presso la Stazione ecologica attrezzata (ex- Centro Ambiente), è riconosciuta una riduzione della tariffa calcolata sulla base delle quantità di rifiuti conferiti in forma differenziata nel corso dell’anno solare precedente in base agli importi specificati nella seguente tabella:
 
-Tipologia di rifiuto	€/Kg
-Vegetali (scarti di giardinaggio)	0,040
-Inerti e vetro	0,015
-Accumulatori al piombo (batterie)	0,025
-Farmaci e pile	0,025
-Abiti (indumenti usati)	0,025
-Ingombranti lignei, metallici e vari	0,050
-Rifiuti da apparecchiature elettriche e elettroniche - RAEE non pericolosi(elettrodomestici bianchi esclusi freddo e clima, IT e consumer electronics)	0,070
-Rifiuti da apparecchiature elettriche e elettroniche - RAEE pericolosi(freddo e clima, TV e monitor, sorgenti luminose)	0,100
-Carta	0,020
-Plastica	0,040
-Altri rifiuti che non hanno servizi di raccolta a territorio	0,025
+| Tipologia di rifiuto |	€/Kg |
+|------------------------------------------------------------------------------------------------------------------------------| ---------- |
+| Vegetali (scarti di giardinaggio) | 0,040 |
+| Inerti e vetro | 0,015 |
+| Accumulatori al piombo (batterie) | 0,025 |
+| Farmaci e pile | 0,025 |
+| Abiti (indumenti usati) | 0,025 |
+| Ingombranti lignei, metallici e vari | 0,050 |
+| Rifiuti da apparecchiature elettriche e elettroniche - RAEE non pericolosi(elettrodomestici bianchi esclusi freddo e clima, IT e consumer electronics) | 0,070 |
+| Rifiuti da apparecchiature elettriche e elettroniche - RAEE pericolosi(freddo e clima, TV e monitor, sorgenti luminose) | 0,100 |
+| Carta | 0,020 |
+| Plastica | 0,040 |
+| Altri rifiuti che non hanno servizi di raccolta a territorio | 0,025|
 
 2.	In ogni caso l’ammontare della riduzione non può essere superiore al 50% della quota variabile della tariffa.
 3.	Le agevolazioni indicate nei precedenti commi saranno calcolate a consuntivo con compensazione con il tributo dovuto per l’anno successivo.
