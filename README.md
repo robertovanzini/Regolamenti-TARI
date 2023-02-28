@@ -1,4 +1,4 @@
-Delibera IL CONSIGLIO COMUNALE n. 28 del 04/06/2015<br> 
+##Delibera IL CONSIGLIO COMUNALE n. 28 del 04/06/2015##<br> 
 **VISTA** la Legge 27 dicembre 2013, n. 147, Legge di Stabilità per l’anno 2014, che ha disciplinato l’Imposta Unica Comunale (I.U.C.), nell’intento di intraprendere il percorso verso l’introduzione della riforma sugli immobili;<br>
 **RILEVATO** che la disciplina, nel dettaglio, della componente I.U.C. relativa alla tassa sui rifiuti (TARI), è presente ai commi da 641 a 668;<br>
 VISTA la deliberazione di Consiglio Comunale n. 48 del 23/07/2014 con la quale veniva approvato il Regolamento per l’applicazione della nuova tassa sui rifiuti (I.U.C. - TA.RI) di cui all’art. 1 comma 641 e ss. della legge 147/2013 e s.m.i.;<br>
